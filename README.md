@@ -937,172 +937,316 @@ allows players to drag corpses around
 [MySQL Whitelist](https://umod.org/plugins/mysql-whitelist) 
 
 [N Teleportation](https://umod.org/plugins/n-teleportation) 
+Multiple teleportation systems for admins and players
+
+[Name Grabber](https://oxidemod.org/plugins/name-grabber.1292/) 
+A command to grab name of any item, deployable or entity
 
 [Never Wear](https://umod.org/plugins/never-wear) 
+Stops all items from losing condition 
 
 [Night Door](https://umod.org/plugins/night-door) 
+Allows opening of selected door(s) only during set time period
 
 [Night Lantern](https://umod.org/plugins/night-lantern) 
+Automatically turns ON and OFF lanterns after sunset and sunrise
 
 [Night PVP](https://umod.org/plugins/night-pvp) 
+Allows PvP only during night
 
 [Night Vision](https://umod.org/plugins/night-vision) 
+See at night
+
+[No Admin Ownership](https://oxidemod.org/plugins/noadminownership.2019/) 
+Remove fractional ownership from items when picked up or dropped for admins/players with permission
+
+[No Animals](https://oxidemod.org/plugins/noanimals.2068/) 
+This plugin removes all animals from your server.
 
 [No Backpacks](https://umod.org/plugins/no-backpacks) 
+Removes backpacks after the configured amount of time 
+
+[No Bow Raid](https://oxidemod.org/plugins/nobowraid.2021/)
+Removes bow raiding
+
+[No Cost](https://oxidemod.org/plugins/nocost.2225/) 
+Choose a materials that won't be consumed while crafting.
 
 [No Craft](https://umod.org/plugins/no-craft) 
+Blacklist craft items or disable crafting altogether 
 
 [No Death Screen](https://umod.org/plugins/no-death-screen) 
+Disables the death screen by automatically respawning players 
 
 [No Decay](https://umod.org/plugins/no-decay) 
+Scales or disables decay of items, and deployables.
 
 [No Deployable Penalty](https://umod.org/plugins/no-deployable-penalty) 
+Disables picking up damage for items like large boxes, furnaces, auto turrets 
 
 [No Durability](https://umod.org/plugins/no-durability) 
+Allows players with permission to have no durability on every item 
 
 [No Escape](https://umod.org/plugins/no-escape) 
+Prevent "teleportation" (and more) while in raid or combat 
 
 [No Fall Damage](https://umod.org/plugins/no-fall-damage) 
+Completely removes fall damage for players with permission 
 
 [No Foundation Objects](https://umod.org/plugins/no-foundation-objects) 
+Blocks objects under foundations 
 
 [No Fuel Requirements](https://umod.org/plugins/no-fuel-requirements) 
+Allows you to choose which deployables do not use fuel 
 
 [No Give Notices](https://umod.org/plugins/no-give-notices) 
+Prevents F1 item giving notices from showing in the chat and console 
 
 [No Green](https://umod.org/plugins/no-green) 
+Simply removes the green name away from admins in-game
 
 [No Locks](https://umod.org/plugins/no-locks) 
+Disabling ability to place locks on certain entities 
 
 [No Loot](https://umod.org/plugins/no-loot) 
+Removes all loot containers and prevents them from spawning
 
 [No Nudity](https://umod.org/plugins/no-nudity) 
+Gives pants and forces players to wear pants.
 
 [No Raid](https://umod.org/plugins/no-raid) 
+Prevents players from destroying buildings they're not associated with 
 
 [No Recoil](https://umod.org/plugins/no-recoil) 
+Detects recoil scripts from programs such as AutoHotKey.
 
 [No Respawn Cooldowns](https://umod.org/plugins/no-respawn-cooldowns) 
+With Permissions you will never have Respawn Cooldowns
+
+[No Signs](https://oxidemod.org/plugins/no-signs.915/) 
+Prevents players from using signs on the server
 
 [No Sash](https://umod.org/plugins/no-sash) 
+Blocks sashes from showing on players 
+
+[NoSeedGrief](https://oxidemod.org/plugins/noseedgrief.2260/) 
+Blocks seed from being planted if Building Blocked. Seeds are refunded.
 
 [No Shelves Bug Raiding](https://umod.org/plugins/no-shelves-bug-raiding) 
+No bug raiding with shelves
 
 [No Sleepers](https://umod.org/plugins/no-sleepers) 
+Prevents players from sleeping and optionally removes player corpses
 
 [No Suicide](https://umod.org/plugins/no-suicide) 
 
 [No Supply Signal](https://umod.org/plugins/no-supply-signal) 
+Prevents supply drops triggering from supply signals 
+
+[No Water Build](https://oxidemod.org/plugins/nowaterbuild.2173/) 
+Block players building in water
 
 [No Weapon Drop](https://umod.org/plugins/no-weapon-drop) 
+Prevents dropping of active weapon when players start to die 
 
 [No Workbench](https://umod.org/plugins/no-workbench) 
+Eliminate the requirement of being near a bench to craft
 
 [No Wounded](https://umod.org/plugins/no-wounded) 
+Removes the wounded state for players
 
 [Noob Queue Bypass](https://umod.org/plugins/noob-queue-bypass) 
+Allows new players to skip the queue 
+
+[NotePad](https://oxidemod.org/plugins/notepad.1154/) 
+Players can save notes to be later read. Admins can save global notes.
 
 [Note Tracker](https://umod.org/plugins/note-tracker) 
+Tracks the who, when, and what of note edits 
+
+[Notice](https://oxidemod.org/plugins/notice.1193/) 
+Notice players anonymously
 
 [Notify On Keyword](https://umod.org/plugins/notify-on-keyword) 
+Be notified in Chat/Discord when your Keyword (exemple : @admin) is used in chat 
 
 [Notify To Discord](https://umod.org/plugins/notify-to-discord) 
+Sends server/player notifications to a Discord Channel 
 
 [NPC Target](https://umod.org/plugins/npc-target) 
+Disallow NPCs target other NPCs 
 
-[Npc TP](https://umod.org/plugins/npc-tp) 
+[NPC TP](https://umod.org/plugins/npc-tp) 
+Create an NPC that will TP a player to anywhere, run commands, or open a door
 
 [Nuke Weapons](https://umod.org/plugins/nuke-weapons) 
+A bunch of different ammo types, full GUI crafting menu and ammo gauge
 
 [Nuke Wipe](https://umod.org/plugins/nuke-wipe) 
+Wipe with style and explosion 
 
 [Object Remover](https://umod.org/plugins/object-remover) 
+Removes furnaces, lanterns, campfires, buildings, etc. on command 
 
 [Offline Doors](https://umod.org/plugins/offline-doors) 
+Closes all doors owned by player when he disconnects
 
 [Offline Mail](https://umod.org/plugins/offline-mail) 
 
+[OilCrate](https://oxidemod.org/plugins/oilcrate.2339/) 
+Brings the pump jack back into the game
+
 [Old School Quarries](https://umod.org/plugins/old-school-quarries) 
+Makes resource output from quarries better
 
 [On Screen Logo](https://umod.org/plugins/on-screen-logo) 
+The small plugin that allows you to put your own logo on the players screen
 
 [Online Quarries](https://umod.org/plugins/online-quarries) 
+Automatically disable players' quarries when offline
+
+[Pain AFK](https://oxidemod.org/plugins/pain-afk.976/)
+Simple "Away From Keyboard" system
 
 [Path Finding](https://umod.org/plugins/path-finding) 
+Path finding API, used by other plugins only
 
 [Perm Rewards](https://umod.org/plugins/perm-rewards) 
+Gives players a kit-like reward if they're in a group 
+
+[Permadeath](https://oxidemod.org/plugins/permadeath.2505/) 
+Simple plugin that deletes all of a player's entities after a certain amount of deaths.
 
 [Perma Map](https://umod.org/plugins/perma-map) 
+Allows players to always have a map to use in their inventory 
 
 [Permissions Manager](https://umod.org/plugins/permissions-manager) 
+GUI manager for player and group permissions 
+
+[Personal Paper Map](https://oxidemod.org/plugins/personal-paper-map.2098/) 
+Personalize the Paper Map, set a default map, let users save there maps
 
 [Personal Beacon](https://umod.org/plugins/personal-beacon) 
+Displays a beacon at a marked location for easier navigation 
 
 [Pets](https://umod.org/plugins/pets) 
+Do you want a pet? This plugin is for you!
 
 [Phantom Sleepers](https://umod.org/plugins/phantom-sleepers) 
+Create phantom sleepers to lure ESP hackers 
 
 [Pills Here](https://umod.org/plugins/pills-here) 
+Recovers health, hunger, and/or hydration by set amounts on item use 
 
 [Plagued](https://umod.org/plugins/plagued) 
+Avoid others players to stay alive
 
 [Plant Drop](https://umod.org/plugins/plant-drop) 
+Allows planting crops anywhere by dropping seeds 
 
 [Play FX](https://umod.org/plugins/play-fx) 
+Play any Rust FX/Effect on any specified player. For example; vomitting sound.
 
 [Player Administration](https://umod.org/plugins/player-administration) 
+Allows server admins to moderate users using a GUI from within the game 
 
 [Player Blinder](https://umod.org/plugins/player-blinder) 
+Gives an extra way of punishing players 
 
 [Player Challenges](https://umod.org/plugins/player-challenges) 
+Allows titles to be set when certain criteria are met, with a UI Leader board
 
 [Player Chatcontrol](https://umod.org/plugins/player-chatcontrol) 
+Chat through a player
 
-[Player Chatcontrol](https://umod.org/plugins/player-chatcontrol) 
+[Player Corpse Duration Modifier](https://oxidemod.org/plugins/player-corpse-duration-modifier.778/)
+Modify the length of which a player's corpse remains active in the world
+
+[PlayerCount](https://oxidemod.org/plugins/playercount.2430/) 
+Simple message notifying players of both the online player and sleeper count.
+
+[PlayerCounter](https://oxidemod.org/plugins/playercounter.2005/) 
+Adds a discrete player counter to the HUD
+
+[Player Info](https://oxidemod.org/plugins/player-info.1063/) 
+Check your target's info and yours.
+
+[Player Manager[(https://oxidemod.org/plugins/player-manager.1535/) 
+GUI-based player manager
 
 [Player Rankings](https://umod.org/plugins/player-rankings) 
+Automatically gives players ranks based on playtime 
 
 [Player Ranks](https://umod.org/plugins/player-ranks) 
+Player ranks and stats database 
 
 [Player Report](https://umod.org/plugins/player-report) 
+GUI reporting for players after being killed 
 
 [Player Tracker](https://umod.org/plugins/player-tracker) 
+Gives players with permission the ability to easily watch the movement of certain players 
 
 [Playtime Supply Signal](https://umod.org/plugins/playtime-supply-signal) 
 
 [Political Survival](https://umod.org/plugins/political-survival) 
+Become the President, tax the server, and subjugate everyone!
 
 [Popup Notifications](https://umod.org/plugins/popup-notifications) 
+Popup notifications that can be created by admins and other plugins
 
 [Portals](https://umod.org/plugins/portals) 
+Create portals allowing players to walk through to another location
 
 [Portgun](https://umod.org/plugins/portgun) 
+Teleports player to object or terrain they are looking at 
 
 [Power Spawn](https://umod.org/plugins/power-spawn) 
+Controls player spawning
 
 [Prefab Sniffer](https://umod.org/plugins/prefab-sniffer) 
+Sniffs the game files for prefab file locations 
 
 [Present Loot](https://umod.org/plugins/present-loot) 
+Modifies the loot tables for Christmas presents
 
 [Prevent Looting](https://umod.org/plugins/prevent-looting) 
+Provides protection of players' entities from looting by other players 
 
 [Privilege Deploy](https://umod.org/plugins/privilege-deploy) 
+Block specific items from being deployed outside of a authorized build radius
+
+[PrivateZones](https://oxidemod.org/plugins/privatezones.1703/) 
+Add permissions to zones to keep them private
+
+[Prod](https://oxidemod.org/plugins/prod-who-owns.683/)
+Get owners of deployable, building structures and whitelist of tool cupboards
+
+[Promocode Spawner](https://oxidemod.org/plugins/promocode-spawner.2410/) 
+Spawns the box with your promocode. Save them between reloads.
 
 [Protocol Kick Info](https://umod.org/plugins/protocol-kick-info) 
+Customize disconnect info for being kicked by wrong protocol version 
 
 [Proximity Alert](https://umod.org/plugins/proximity-alert) 
+Displays a UI warning message when within a set radius of the user
 
 [Pumpkin Bombs](https://umod.org/plugins/pumpkin-bombs) 
+Turn pumpkins into explosive Jack'O'Lanterns
 
 [Punish Friendly Fire](https://umod.org/plugins/punish-friendly-fire) 
+Punish player for attacking his friend by giving the attacker the damage.
 
 [Purifier Config](https://umod.org/plugins/purifier-config) 
+Allows configuration of Water Purifiers
 
 [Puzzle Chain Repair](https://umod.org/plugins/puzzle-chain-repair) 
+Provide detail log and not allow players to destroy IO entities
 
 [PVP Indicator](https://umod.org/plugins/pvp-indicator) 
+Makes logo on entering PVP zones or PVP mode 
 
 [PvX Selector](https://umod.org/plugins/pvx-selector) 
+Allows PvE/PvP Gameplay on one server.
 
 [Quarry Craft](https://umod.org/plugins/quarry-craft) 
 Returns the ability to craft quarries back! 
@@ -1213,9 +1357,10 @@ Teleports player to a random recycler on command
 Switch that allows you to open / close doors remotely
 
 [Remove Default Radiation](https://umod.org/plugins/remove-default-radiation) 
-Removes default radiation zones, for use with plugins that enable server radiation 
+Removes some zones, for use with plugins that enable server radiation 
 
 [Remove Vanilla](https://umod.org/plugins/remove-vanilla) 
+Remove without any useless things 
 
 [Repair Tool](https://umod.org/plugins/repair-tool) 
 Repair any entity that has health
@@ -1227,6 +1372,7 @@ Replaces the active broken item with a not broken item if in inventory
 Easily reset/replenish loot in storage boxes and containers after a certain amount of time.
 
 [Research Block](https://umod.org/plugins/research-block) 
+Allows to block researching several items 
 
 [Research Control](https://umod.org/plugins/research-control) 
 manage all what can be done with the research table. Speed and cost.
@@ -1255,8 +1401,8 @@ Easily revive your teammates/fellow players with arrows.
 [Rewarding Craft](https://oxidemod.org/plugins/rewarding-craft.1739/)
 The more you craft, the more you learn
 
-[RGive]()
-Give Random item
+[RGive](https://oxidemod.org/plugins/rgive.929/updates)
+*NOT FOUND* Give Random item
 
 [Robbery](https://umod.org/plugins/robbery) 
 Players can steal money, points, and/or items from other players 
@@ -1277,7 +1423,7 @@ Rock Paper Scissors game
 This plugin displays the rules on connect.
 
 [Running Man](https://umod.org/plugins/running-man) 
-Randomly selects a player, his task is to survive for a certain time. The task remaining is to kill him. The winner gets a reward.
+Randomly selects a player to survive. Remaining players trys to kill him for a reward.
 
 [Rust Kits](https://umod.org/plugins/rust-kits) 
 Item kits, autokits, kit cooldowns, and more 
@@ -1286,7 +1432,7 @@ Item kits, autokits, kit cooldowns, and more
 Allows players to roll number to win more money or points 
 
 [Rust Notifications](https://umod.org/plugins/rust-notifications) 
-Rust plugin to notify when someone connects/disconnects from the server/when structures are attacked
+notify when someone connects/disconnects from the server/when structures are attacked
 
 [Rust Rewards](https://umod.org/plugins/rust-rewards) 
 Rewards players for activity, looting, killing and farming with in game money 
@@ -1343,14 +1489,16 @@ Search light targeting system
 Adds an in-game UI with custom text and images 
 
 [Server Rewards](https://umod.org/plugins/server-rewards) 
-Earn reward points in various ways and spend them on many different options in the GUI reward store 
+Earn reward points iand spend them on  different options in the GUI reward store 
 
 [Shared Doors](https://umod.org/plugins/shared-doors) 
 Sharing doors with friends via the tool cupboard.
 
 [Sharp Auto Code Locks](https://umod.org/plugins/sharp-auto-code-locks) 
+Automagically adds a codelock to a door with a set pin 
 
 [Shoot To Ban](https://umod.org/plugins/shoot-to-ban) 
+banning players easy, with just shooting your gun. 
 
 [ShowCrosshair](https://oxidemod.org/plugins/showcrosshair.2057/) 
 Shows a crosshair on the screen
