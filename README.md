@@ -45,6 +45,9 @@ disallows players from building so quickly
 [Advert Messages](https://umod.org/plugins/advert-messages) 
 Timed chage messages
 
+[Advertise Me](https://oxidemod.org/plugins/advertise-me.2764/) 
+Lets players place eye catching advertisement messages.
+
 [AFK](https://umod.org/plugins/afk) 
 Kicks players that are AFK too long
 
@@ -138,8 +141,14 @@ Sends randomly configured chat messages every x seconds
 [Auto Chat](https://umod.org/plugins/auto-chat) 
 Clan and private chat switching
 
+[AutoCrafter](https://oxidemod.org/plugins/autocrafter.2582/) 
+A machine that automatically crafts items so the player can do more interesting stuff instead.
+
 [Auto Doors](https://umod.org/plugins/auto-doors) 
 Closes doors behind players after x seconds
+
+[AutoExchange](https://oxidemod.org/plugins/autoexchange.2224/) 
+Converts Economics to RP automatically
 
 [Auto Fuel](https://umod.org/plugins/auto-fuel) 
 Fuels lights using fuel from tool cupboard
@@ -161,6 +170,9 @@ runs evens when using night skip
 
 [Automatic Authorization](https://umod.org/plugins/automatic-authorization) 
 add friends or clan to tc using 1 command
+
+[Automatic Client Commands](https://oxidemod.org/plugins/automatic-client-commands.1894/) 
+Automatically run a configurable list of client commands when a player joins the server
 
 [Babel](https://umod.org/plugins/babel)
 Plugin API for translating messages using free or paid services
@@ -185,6 +197,9 @@ Removes all the entities placed by a player when they are banned
 
 [Ban Fix](https://umod.org/plugins/ban-fix)
 stops server freeze when banning 
+
+[BanSync](https://oxidemod.org/plugins/bansync.1897/) 
+Syncs bans across multiple servers.
 
 [Bandit Hide](https://umod.org/plugins/bandit-hide) 
 hides players name when wearing specific clothes
@@ -261,11 +276,20 @@ Enhanced features
 [Better Loot](https://umod.org/plugins/better-loot) 
 Complete re-implementation of the drop system
 
+[Better Researching](https://oxidemod.org/plugins/better-researching.1137/) 
+Allows instant researching and adjustable research chance
+
 [Better Say](https://umod.org/plugins/better-say) 
 Customizing the say command
 
+[Better Stability](https://oxidemod.org/plugins/betterstability.862/) 
+A complete re-implementation of the stability system
+
 [BGrade](https://umod.org/plugins/bgrade) 
 Auto update building blocks when placed
+
+[Blessing of The Gods](https://oxidemod.org/plugins/blessing-of-the-gods.2022/) 
+Players will be randomly blessed by a God
 
 [Block Box Placement](https://umod.org/plugins/block-box-placement) 
 Checks if player can upgrade and nothing under
@@ -275,6 +299,9 @@ Prevent foundation on foundations
 
 [Block Remover](https://umod.org/plugins/block-remover) 
 Admins can remove the building blocks outside cupboard range
+
+[Block Stash Placement](https://oxidemod.org/plugins/block-stash-placement.2060/) 
+Blocks the placement of small stashes
 
 [Block Structure](https://umod.org/plugins/block-structure) 
 No builidng in the rocks, icebergs, and limit height and depth in the water
@@ -333,6 +360,9 @@ Allows changing the max heath of buildings
 [Building Info](https://umod.org/plugins/building-info) 
 Scan buildings and get their owners
 
+[Building Owners](https://oxidemod.org/plugins/building-owners.682/) 
+Sets owners of houses when someone builds a house part
+
 [Building Restriction](https://umod.org/plugins/building-restriction) 
 Restricts building height, building in water, and number of foundations
 
@@ -362,6 +392,9 @@ limited drivable car spawner
 
 [Car Horn](https://umod.org/plugins/car-horn) 
 add simple horn to cars
+
+[Cash System](https://oxidemod.org/plugins/cash-system.844/) 
+A simple cash system
 
 [Chat Cleaner](https://umod.org/plugins/chat-cleaner) 
 Clears a players chat when joining a server
@@ -408,6 +441,9 @@ Cleans up deployables
 [Clothing Slots](https://umod.org/plugins/clothing-slots) 
 Available inventory slots depends on clothing worn
 
+[CodeLockNerf](https://oxidemod.org/plugins/codelocknerf.1908/) 
+If you die, your character can forget door codes, better keep that notepad ready.
+
 [Collider Count](https://umod.org/plugins/collider-count) 
 use chat or console to check current collider count and estimated days to wipe
 
@@ -447,6 +483,15 @@ Database for developers
 [Connection Limiter](https://umod.org/plugins/connection-limiter) 
 Limits and protects against player reconnection spam
 
+[Compass](https://oxidemod.org/plugins/compass.2605/) 
+Compass like in PUBG game
+
+[ConsoleMessages](https://oxidemod.org/plugins/consolemessages.2093/) 
+Send messages to individual players with console commands
+
+[ConstructionConfig](https://oxidemod.org/plugins/constructionconfig.859/) 
+Set health, cost and protection of constructions
+
 [Container Control](https://umod.org/plugins/container-control) 
 Restricts which items can be put into contianers
 
@@ -461,6 +506,9 @@ Copy and paste buildings, save them or move them
 
 [Cornucopia](https://umod.org/plugins/cornucopia) 
 Spawns extra crates, barrels, nodes, animals randomly on the map
+
+[Corpse Handler](https://oxidemod.org/plugins/corpse-handler.1229/) 
+Count and clean corpses
 
 [Corpse Location](https://umod.org/plugins/corpse-location) 
 Lets players find their last corpse
@@ -482,6 +530,9 @@ Modify the time spend crafting and items the can be crafted
 
 [Crosshair](https://umod.org/plugins/crosshair) 
 customizable crosshair (breaks map)
+
+[Cron Library](https://oxidemod.org/plugins/cron-library.1754/) 
+Add crontab expressions to your scheduled works
 
 [Cupboard Auto Lock](https://umod.org/plugins/cupboard-auto-lock) 
 Automatically add acodelock on cupboards with option to lock all access
@@ -513,8 +564,11 @@ makes tc invulnderable and unable to be destroyed
 [Cupboard Range](https://umod.org/plugins/cupboard-range) 
 prohibits construction in the range of the tc
 
+[Cupboard Restrictions](https://oxidemod.org/plugins/cupboard-restrictions.2020/) 
+Restricts cupboards being built on grass
+
 [Custom AI](https://umod.org/plugins/custom-ai) 
-custome animals ai
+Custom animals ai
 
 [Custom Animal Spawns](https://umod.org/plugins/custom-animal-spawns) 
 Addition spawn points and respawn timers
@@ -524,6 +578,9 @@ automatic kits by permission
 
 [Custom Chat Commands](https://umod.org/plugins/custom-chat-commands) 
 Allows you to add new chat commands
+
+[CustomCommands](https://oxidemod.org/plugins/customcommands.2158/) 
+UI Buttons for Custom Console and Chat Commands - Unique to each Player!
 
 [Custom Decay](https://umod.org/plugins/custom-decay) 
 Custom decay for all individual entities with auto config for new entities
@@ -549,6 +606,9 @@ create custom spawn points on your server
 [Damage Control](https://umod.org/plugins/damage-control) 
 Tune damage entities take
 
+[DamageDisplay GUI](https://oxidemod.org/plugins/damagedisplay-gui.1811/) 
+Displays the given damage to a player in a GUI
+
 [Damage Mod : Building Block Protection](https://umod.org/plugins/damage-mod-building-block-protection) 
 Prevent or allow damage to specific building blocks
 
@@ -570,6 +630,15 @@ Different gather rates for day and night
 [Day/Night Message](https://umod.org/plugins/daynight-message) 
 Broadcasts a custom message at dawn and/or dusk
 
+[DC Protect](https://oxidemod.org/plugins/dc-protect.2724/) 
+Prevents looting of players for a specified time after disconnecting or server start.
+
+[DeathKick](https://oxidemod.org/plugins/deathkick.1779/) 
+Kicks a player for a specified amount of time upon death
+
+[Deathmatch](https://oxidemod.org/plugins/deathmatch.741/) 
+Deathmatch event for EventManager
+
 [Death Notes](https://umod.org/plugins/death-notes) 
 Broadcasts deaths to chat log with detailed info
 
@@ -588,7 +657,7 @@ Test all available core hooks and provides useful helpers
 [Devblog Announcer](https://umod.org/plugins/devblog-announcer) 
 Broadcast to chat and console when devblog or community update is release
 
-[Devil&#39;s Island](https://umod.org/plugins/devils-island) 
+[Devils Island](https://umod.org/plugins/devils-island) 
 Complete game mode and endgame content
 
 [Dice](https://umod.org/plugins/dice) 
@@ -606,7 +675,10 @@ Send reports from players to discord
 [Discord Wipe Announcement](https://umod.org/plugins/discord-wipe-announcement) 
 Posts announcement to discord when server wipes
 
-[Don&#39;t Target Me](https://umod.org/plugins/dont-target-me) 
+[Distance](https://oxidemod.org/plugins/distance.1780/) 
+Distance measuring tool - useful for setting up zones
+
+[Dont Target Me](https://umod.org/plugins/dont-target-me) 
 Makes turrents, bradley, heli, and player npcs ignore you
 
 [Donation Claim](https://umod.org/plugins/donation-claim) 
@@ -624,323 +696,651 @@ check who opens and closes a door
 [Drag Corpses](https://umod.org/plugins/drag-corpses) 
 allows players to drag corpses around
 
+[Draw](https://oxidemod.org/plugins/draw.968/) 
+A helper plugin / library for easily drawing stuff into a player's world using Rust's ddraw tools.
+
+[Drop Blocker](https://oxidemod.org/plugins/drop-blocker.2191/) 
+Anti drop items at the craft.
+
 [Drop Remover](https://umod.org/plugins/drop-remover) 
+Removes selected world items from the map with commands 
 
 [Duelist](https://umod.org/plugins/duelist) 
+1v1 and team deathmatch event 
 
 [Dynamic Loot Drops](https://umod.org/plugins/dynamic-loot-drops) 
+Drops loot on ground on death and allows players to auto pick up 
 
 [Dynamic PVP](https://umod.org/plugins/dynamic-pvp) 
+Create temporary PVP zones around SupplyDrops, LockedCrates, APC and/or Heli
 
 [Easy Airdrop](https://umod.org/plugins/easy-airdrop) 
+Call airdrops using simple commands
 
 [Easy Broadcast](https://umod.org/plugins/easy-broadcast) 
+allows you to broadcast a message to the chat.
+
+[EasyChatCommands](https://oxidemod.org/plugins/easychatcommands.2308/) 
+Easily Add Chat Info Commands
+
+[Easy Furnace](https://oxidemod.org/plugins/easyfurnace.1191/) 
+Auto fills and auto starts furnaces
 
 [Easy Vote](https://umod.org/plugins/easy-vote) 
+Most customizable vote plugin for Rust servers 
 
 [Easy Vote Highest Voter](https://umod.org/plugins/easy-vote-highest-voter) 
+Monthly check for the highest voter and reward them 
+
+[Easy Teams](https://oxidemod.org/plugins/easyteams.1970/) 
+Easily create teams for custom events.
+
+[Economics](https://umod.org/plugins/economics) 
+Basic economics system and economy API 
 
 [Edit Tool](https://umod.org/plugins/edit-tool) 
+Provides a GMod type tool to edit your environment.
+
+[Email API](https://oxidemod.org/plugins/email-api.712/) 
+API for sending email messages via supported transactional email services
 
 [EMInterface](https://umod.org/plugins/eminterface) 
+The control system for the Event Manager plugin 
+
+[Empty Low FPS](https://umod.org/plugins/empty-low-fps) 
+Sets the server's frame rate to lower when no players are connected 
 
 [EMSQL](https://umod.org/plugins/emsql) 
+MySQL database add-on for Event Manager 
+
+[EnchantTools](https://oxidemod.org/plugins/enchanttools.2432/) 
+Add enchanted tools to the game that mining melted resources.
 
 [Enhanced Hammer](https://umod.org/plugins/enhanced-hammer) 
+Quickly upgrade your base with a hammer 
 
 [Entity Data](https://umod.org/plugins/entity-data) 
+Saving specified information about player-owned entities 
 
 [Entity Limit](https://umod.org/plugins/entity-limit) 
+Limit entities per player
 
 [Entity Owner](https://umod.org/plugins/entity-owner) 
+Show and modify entity ownership and cupboard/turret authorization 
 
 [Entity Reducer](https://umod.org/plugins/entity-reducer) 
+Reduce amount of entities by removing non desired objects
+
+[EpicLanterns](https://oxidemod.org/plugins/epiclanterns.1361/) 
+Automatically toggles lanterns after sunrise and sunset or in other given time
+
+[Event - Battlefield](https://oxidemod.org/plugins/event-battlefield.1311/) 
+Free for All, Open Arena, Vote Weapons, Vote Grounds
+
+[EventBoxAPI](https://oxidemod.org/plugins/eventboxapi.1481/updates) 
+allows you to set up spots for boxes which other plugins can use.
+
+[Event Kick](https://oxidemod.org/plugins/event-kick.1320/) 
+Kick players when event is started or set with toggle
+
+[Event - Headquarters](https://oxidemod.org/plugins/event-headquarters.2211/) 
+Capture the headquarters
 
 [Event Manager](https://umod.org/plugins/event-manager) 
+A versitile arena event plugin
 
 [Event Randomizer](https://umod.org/plugins/event-randomizer) 
+Random timers for Cargo Ship, Patrol Helicopter, and Chinook 
 
 [Everlight](https://umod.org/plugins/everlight) 
+Allows infinite light from configured objects by not consuming fuel 
 
 [Exclusive Looter](https://umod.org/plugins/exclusive-looter) 
+Allows only one player to loot an entity at a time 
+
+[Exodus](https://oxidemod.org/plugins/exodus.1536/) 
+Gamemode/economy controller
 
 [Explosion Tracker](https://umod.org/plugins/explosion-tracker) 
+Tracks and logs every explosion that happens on the server 
 
 [Explosive Barrels](https://umod.org/plugins/explosive-barrels) 
+Barrels containing certain items can explode
 
 [Explosive Rounds](https://umod.org/plugins/explosive-rounds) 
+Gives explosive bullets effects on impact
 
 [Explosives Modifier](https://umod.org/plugins/explosives-modifier) 
+Allows you to modify explosive damage and radius
 
 [Extended Recycler](https://umod.org/plugins/extended-recycler) 
+Extend recyclers for personal use and more 
 
 [External Wall Decay Protection](https://umod.org/plugins/external-wall-decay-protection) 
+Adds protection from decay to walls 
 
 [External Wall Protect](https://umod.org/plugins/external-wall-protect) 
+Prevents ladders from being able to be placed on external walls 
+
+[External Wall Stacking](https://oxidemod.org/plugins/external-wall-stacking.2190/) 
+Allows the player to stack high external walls.
 
 [Factions](https://umod.org/plugins/factions) 
+A Faction system with Leaders, Taxes, Trades, Ranks, Kill Rewards, and MORE!
 
 [Factions Core](https://umod.org/plugins/factions-core) 
+A Faction/Team System. Revamp from original Factions.
+
+[FactionsTax](https://oxidemod.org/plugins/factionstax.2424/) 
+A Tax System for Factions Core
 
 [Fancy Drop](https://umod.org/plugins/fancy-drop) 
+The all-in-one airdrop toolset 
 
 [Faux Admin](https://umod.org/plugins/faux-admin) 
+Allows Authorized players use of admin noclip and have Green chat name.
 
 [Faux Clip](https://umod.org/plugins/faux-clip) 
+NoClip Simulator for players with permission
 
 [Fire Arrows](https://umod.org/plugins/fire-arrows) 
+Players can shoot arrows with fire
+
+[Finder](https://oxidemod.org/plugins/finder.692/) 
+Find Players, SleepingBags, Buildings, Items, and teleport to them
 
 [Fishing](https://umod.org/plugins/fishing) 
+Allows players to use weapons to fish ingame
+
+[FlameThrower](https://oxidemod.org/plugins/flamethrower.1498/) 
+*ingame* Allows Thompson to be used as a Flamethrower with Heat damage
+
+[Flashbang Grenade](https://oxidemod.org/plugins/flashbang-grenade.1283/) 
+Replaces grenade with a flashbang grenade
 
 [Flippable Turrets](https://umod.org/plugins/flippable-turrets) 
+Allows you to flip a turret (attach to a ceiling)
 
 [Flying Carpet](https://umod.org/plugins/flying-carpet) 
+Fly a custom object consisting of carpet, chair, lantern, and lock.
 
 [Food Grilling](https://umod.org/plugins/food-grilling) 
+Add physical food on the grill
 
 [Fort Wars](https://umod.org/plugins/fort-wars) 
+Custom gamemode that changes values of gathering/smelting/crafting based on a current phase 
 
 [Free Research](https://umod.org/plugins/free-research) 
+Makes blueprint research and workbench experiments free.
+
+[Freeze Arrows](https://oxidemod.org/plugins/freeze-arrows.1601/) 
+Freezes players within radius for a short time
+
+[FreshStart](https://oxidemod.org/plugins/freshstart.2356/) 
+Removes all entities when killed by another player
 
 [Fridge Food](https://umod.org/plugins/fridge-food) 
+Prevents food from being placed in box instead of fridge 
+
+[FriendlyFire](https://oxidemod.org/plugins/friendlyfire.687/) 
+Toggle friendly fire on/off for Friends API
 
 [Friendly Nature](https://umod.org/plugins/friendly-nature) 
+Stop animals from eating each other
 
 [Furnace Sort](https://umod.org/plugins/furnace-sort) 
+Furnace Sorting, auto stacks evenly (only ore) 
 
 [Furnace Splitter](https://umod.org/plugins/furnace-splitter) 
+Splits up ores into equal stacks when you put them into furnaces 
 
 [Game Menu](https://umod.org/plugins/game-menu) 
+Create your own GUI menu with buttons and title 
 
 [Game Tip Announcements](https://umod.org/plugins/game-tip-announcements) 
+Sends announcements or messages to players as game tips 
 
 [Game Tip API](https://umod.org/plugins/game-tip-api) 
+API for displaying queued gametips to players.
 
 [Gather Blocking](https://umod.org/plugins/gather-blocking) 
+Blocks gather by certain tools.
 
 [Gather Bonuses](https://umod.org/plugins/gather-bonuses) 
+Change gatherable items and amounts
+
+[GatherConfig](https://oxidemod.org/plugins/gatherconfig.1569/) 
+Change gatherable items and amounts
 
 [Gather Control](https://umod.org/plugins/gather-control) 
+Control gather rates by day and night with permissions 
 
 [Gather Manager](https://umod.org/plugins/gather-manager) 
+Increases the amount of items gained from gathering resources 
 
 [Gather Rewards](https://umod.org/plugins/gather-rewards) 
+Economics/ServerRewards for various actions (gathering, animal kills)
 
 [Give](https://umod.org/plugins/give) 
+Allows players with permission to give items or kits 
+
+[Global Damage Modifier](https://oxidemod.org/plugins/global-damage-modifier.1207/) 
+Allows you to Multiply or Null all major damage types globally
 
 [Godmode](https://umod.org/plugins/godmode) 
+Allows players with permission to be invulerable and god-like
 
 [Golden AKChallenge](https://umod.org/plugins/golden-akchallenge) 
+Deploys a special AK, that is tracked in the map for capture
 
 [Gr Teleport](https://umod.org/plugins/gr-teleport) 
+GrTeleport allows teleportation using the map grid reference. It can also tell your where you died.
 
 [Group Limits](https://umod.org/plugins/group-limits) 
+Limits groups based on authorization.
 
 [Guess The Number](https://umod.org/plugins/guess-the-number) 
+An event that requires player to guess the correct number 
 
 [GUI Announcements](https://umod.org/plugins/gui-announcements) 
+Creates announcements with custom messages across the top of every player's screen 
 
 [GUI Shop](https://umod.org/plugins/gui-shop) 
+GUI Shop based on Economics. Supports NPC
 
 [Gun Game](https://umod.org/plugins/gun-game) 
+GunGame event for EventManager
 
 [Gyrocopter](https://umod.org/plugins/gyrocopter) 
+Allows players to fly there very own scrap build gyrocopter ingame
 
 [Hammer Time](https://umod.org/plugins/hammer-time) 
+Tweak "Demolish" and "Rotate" time when using the hammer
 
 [Handy Man](https://umod.org/plugins/handy-man) 
+Provides AOE repair functionality to players with permission 
 
 [Happy Hour](https://umod.org/plugins/happy-hour) 
+You want to give players some items in specific times?
+
+[HardcoreDeath](https://oxidemod.org/plugins/hardcoredeath.2028/) 
+Unlearn a random blueprint on death
+
+[Hardcore GUI](https://oxidemod.org/plugins/hardcore-gui.1237/) 
+Hides players health, hydration, and saturation level
 
 [Hazmat Diving](https://umod.org/plugins/hazmat-diving) 
+Protects players wearing a Hazmat suit from drowning cold damage while swimming 
 
 [Hazmat To Scientist Suit](https://umod.org/plugins/hazmat-to-scientist-suit) 
+Craft blue Scientist or green Peacekeeper suits instead of Hazmat suits 
+
+[Healing Arrows](https://oxidemod.org/plugins/healing-arrows.2572/) 
+Impale people with flying syringes!
 
 [Healthy Guns](https://umod.org/plugins/healthy-guns) 
+Makes weapons in barrels/crates spawn in good condition 
+
+[HeliConfig](https://oxidemod.org/plugins/heliconfig.2408/) 
+Disable, enable, and control the amount of time between helicopter spawns.
 
 [Heli Control](https://umod.org/plugins/heli-control) 
+Manage CH47 & helicopter health, player damage, configure turrets/rockets, and more!
 
 [Heli Ride](https://umod.org/plugins/heli-ride) 
+Players can fly the Patrol Helicopter
 
 [Heli Vote](https://umod.org/plugins/heli-vote) 
+Allows players to open a vote to call helicopters
 
 [Hide and Seek](https://umod.org/plugins/hide-and-seek) 
+The classic game(mode) of hide and seek, as props 
 
 [High Wall Barricades](https://umod.org/plugins/high-wall-barricades) 
+Automatically removes High External Walls placed outside of cupboard range after a period of time.
 
 [Hit Icon](https://umod.org/plugins/hit-icon) 
+Configurable UI icon and text of damage amount when you hit player|friend|clanmate|head 
+
+[HitMarker GUI](https://oxidemod.org/plugins/hitmarker-gui.1241/) 
+Informs the attacker/player on the screen if someone is hit
 
 [Home Protect](https://umod.org/plugins/home-protect) 
+Protects players and their homes from intruders
+
+[HomeSigns](https://oxidemod.org/plugins/homesigns.1455/) 
+Allows players to only place signs where they can build
 
 [Hooks Extended](https://umod.org/plugins/hooks-extended) 
+Over 200 new hooks to reduce boiler-plate and save time
 
 [Hotel](https://umod.org/plugins/hotel) 
+Hotel System
 
 [Human NPC](https://umod.org/plugins/human-npc) 
+Adds interactive Human NPCs which can be modded by other plugins
+
+[Humanity System](https://oxidemod.org/plugins/humanity-system.1999/) 
+A humanity system based off of the DayZ mod
 
 [Hunt RPG](https://umod.org/plugins/hunt-rpg) 
+An RPG system with level, stats, skills, and specializations 
+
+[IcebergBlocker]https://oxidemod.org/plugins/icebergblocker.2625/updates) 
+Prevent building on iceborgs
+
+[Ignore API](https://oxidemod.org/plugins/ignore-api.1054/) 
+An API to manage an ignore list
 
 [Ignore Collision](https://umod.org/plugins/ignore-collision) 
+This plugin allows you to disable collisions between dropped items in world.
 
 [Image Library](https://umod.org/plugins/image-library) 
+Plugin API for managing images 
+
+[Immediate Demolish Limiter](https://oxidemod.org/plugins/immediate-demolish-limiter.848/) 
+Block the usage of immediate demolish per auth level
 
 [Inbound](https://umod.org/plugins/inbound) 
+Notifies all players when a attack helicopter, cargo plane, cargo-ship or supply drop is inbound. 
 
 [Indestructable Buildings](https://umod.org/plugins/indestructable-buildings) 
+Disable damage being dealt to foundations or buildings on the server.
 
 [Individual Damage Controller](https://umod.org/plugins/individual-damage-controller) 
+Change damage values for each weapon to any body part
 
 [Infinite Ammo](https://umod.org/plugins/infinite-ammo) 
+Allows certain players to have infinite ammo
 
 [Infinity](https://umod.org/plugins/infinity) 
+Allows player with permission to recieve infinite ammo / explosives / durability 
 
 [Info Panel](https://umod.org/plugins/info-panel) 
+A small panel with in-game clock, online players, sleepers and custom messages, etc. 
 
 [Ingame Clock GUI](https://umod.org/plugins/ingame-clock-gui) 
+Displays ingame and server time
 
 [Instant Buy](https://umod.org/plugins/instant-buy) 
+No need to wait between transactions on a vending machine
 
 [Instant Craft](https://umod.org/plugins/instant-craft) 
-
+Crafting of items instant. Can randomise items skin!
+ 
 [Instant Research](https://umod.org/plugins/instant-research) 
+Allows control over research speed 
 
 [Instant Smelt](https://umod.org/plugins/instant-smelt) 
+Smelt resources as soon as they are mined
 
-[Inv Foundation](https://umod.org/plugins/inv-foundation) 
+[InstantXP](https://oxidemod.org/plugins/instantxp.2017/) 
+Automatically set a users XP level on join if it is lower then default or custom permission level
 
 [Inv Lock](https://umod.org/plugins/inv-lock) 
+Locks the inventory or hotbar of players 
+
+[Inventory Cleaner](https://oxidemod.org/plugins/inventory-cleaner.1226/) 
+This plugin allows players with permission to clean all/their/target's inventory.
 
 [Inventory Guardian](https://umod.org/plugins/inventory-guardian) 
+Restore players inventory even after server wipe
 
 [Inventory Viewer](https://umod.org/plugins/inventory-viewer) 
+Look into a player's inventory
+
+[Inv Foundation](https://umod.org/plugins/inv-foundation) 
+Invulnerable foundation
 
 [Invulnerable Players](https://umod.org/plugins/invulnerable-players) 
+Allows players to be invisible to NPCs, APС, heli, and traps 
 
 [IP Logger](https://umod.org/plugins/ip-logger) 
+Logs all player IP addresses for easy comparison 
+
+[IR Bench](https://oxidemod.org/plugins/irbench.2000/)
+Repair items without durability loss
+
+[Item Config](https://oxidemod.org/plugins/itemconfig.806/) 
+Settings for items, blueprints, weapons, tools, etc.
 
 [Item Cost Calculator](https://umod.org/plugins/item-cost-calculator) 
+Automatically calculates item costs based on ingredients
 
 [Item History](https://umod.org/plugins/item-history) 
 
 [Item Renamer](https://umod.org/plugins/item-renamer) 
 
+[Item Reskinner](https://oxidemod.org/plugins/item-reskinner.2423/) 
+Allow players to reskin items with the skins they own.
+
 [Item Search](https://umod.org/plugins/item-search) 
+Search items by proper name or shortname.
 
 [Item Skin Randomizer](https://umod.org/plugins/item-skin-randomizer) 
+Randomizes item skins on item creation
+
+[Item Splitter](https://oxidemod.org/plugins/itemsplitter.2566/) 
+ItemSplitter allow you to easily split your items from your main inventory.
 
 [Item Translations](https://umod.org/plugins/item-translations) 
+Provides a data file of item names for translation 
 
 [Items Blocker](https://umod.org/plugins/items-blocker) 
+Prevents some items from being used for a limited period of time. With UI. 
 
 [Jail](https://umod.org/plugins/jail) 
+Send players to jail
 
 [JPipes](https://umod.org/plugins/jpipes) 
+Pipes that automatically transfer items between boxes, furnaces, turrets, quarries, etc.
+
+[Jump Block Stacking Blocker](https://oxidemod.org/plugins/jump-block-stacking-blocker.847/) 
+Stops players from building those block towers
 
 [Karma Kills](https://umod.org/plugins/karma-kills) 
+Rewards players on karma on kill, or takes karma away from them 
+
+[KDGUI](https://oxidemod.org/plugins/kdgui.2466/) 
+Displays your kills and deaths as an extension to your hotbar!
 
 [KDR GUI](https://umod.org/plugins/kdr-gui) 
+GUI that shows kills, deaths, player name, and K/D Ratio 
 
 [KDR Scoreboard](https://umod.org/plugins/kdr-scoreboard) 
+Provides scoreboards that can show kills, deaths, or kill/death ratio 
 
 [Keep Active Item](https://umod.org/plugins/keep-active-item) 
+Restores a player's held item in their corpse's hotbar when they die 
 
 [Kill Feed](https://umod.org/plugins/kill-feed) 
+Displays a basic Kill Feed on screen!
 
 [Kill Info](https://umod.org/plugins/kill-info) 
+Want to know info when you wound or kill a player?
+
+[Kill Rewards](https://oxidemod.org/plugins/killrewards.2462/) 
+Receive items, weapons with ammo and full health when killing players.
 
 [Kill Streaks](https://umod.org/plugins/kill-streaks) 
+Keep track of player kill streaks and either reward or punish them
 
 [Knock Knock](https://umod.org/plugins/knock-knock) 
+ set a message on a door, so when someone comes knocking they will get a message 
+ 
+[LastName](https://oxidemod.org/plugins/lastname.1227/) 
+Stores all player usernames
 
 [Last Man Standing](https://umod.org/plugins/last-man-standing) 
+Fight to the death event for EventManager
 
 [Life Stealer](https://umod.org/plugins/life-stealer) 
+Gives players health when they damage another player and optionally animals 
 
 [Lights On](https://umod.org/plugins/lights-on) 
+Control light state with no fuel usage 
+
+[Lights Out](https://oxidemod.org/plugins/lightsout.2384/) 
+Allows you to turn off all ovens/lights.
 
 [Limited Ladders](https://umod.org/plugins/limited-ladders) 
+Controls the placement of ladders where building is blocked
+
+[Limited Suicide](https://oxidemod.org/plugins/limitedsuicide.835/) 
+Adds a limit to F1 + "kill"
 
 [Loading Messages](https://umod.org/plugins/loading-messages) 
+Show your own customizable texts on loading screen.
 
 [Loadoutless](https://umod.org/plugins/loadoutless) 
+Saves player loadouts and loads them on spawn 
 
 [Local Time Damage Control](https://umod.org/plugins/local-time-damage-control) 
+control when damage can be done by non-owner players to using local server time.
 
 [Lock Sync](https://umod.org/plugins/lock-sync) 
+Automatically authorize on all code locks that have the same code as the Tool Cupboard.
 
 [Loot Bouncer](https://umod.org/plugins/loot-bouncer) 
+Empty the containers when players do not pick up all the items 
+
+[Loot Config](https://oxidemod.org/plugins/lootconfig.861/) 
+Allows you to adjust the server's loot list
 
 [Loot Logs](https://umod.org/plugins/loot-logs) 
+Log all items deposited and removed from storage, stash and oven containers
 
 [Loot Plus](https://umod.org/plugins/loot-plus) 
+Modify loot on your server. 
+
+[Loot Privilege](https://oxidemod.org/plugins/lootprivilege.2459/) 
+Blocks looting of specified entities if Building Blocked.
 
 [Loot Protection](https://umod.org/plugins/loot-protection) 
+Protects players with permission from being looted by other players
+
+[Loot Scaling](https://oxidemod.org/plugins/loot-scaling.1313/) 
+Scale loot spawn rate/density by player count
 
 [Loot Scanner](https://umod.org/plugins/loot-scanner) 
+Allows player to scan loot container with binoculars 
 
 [Loyalty](https://umod.org/plugins/loyalty) 
+Reward your players for play time with new permissions/usergroups
 
 [Lusty Map](https://umod.org/plugins/lusty-map) 
+In-game map and minimap GUI
 
 [Magazin Booster](https://umod.org/plugins/magazin-booster) 
+Change magazines, ammo and condition for most projectile weapons
 
 [Magic Area](https://umod.org/plugins/magic-area) 
+PvP/PvE areas and developer API
 
 [Magic Carpet](https://umod.org/plugins/magic-carpet) 
+Take a magic carpet ride 
 
 [Magic Chat](https://umod.org/plugins/magic-chat) 
+Custom chat system for public and local chat
 
 [Magic Craft](https://umod.org/plugins/magic-craft) 
+Alternative crafting system
 
 [Magic Description](https://umod.org/plugins/magic-description) 
+Adds dynamic information in the server description 
+
+[Magic Hammer](https://oxidemod.org/plugins/magic-hammer.1375/) 
+Hit stuff with the hammer and do things
 
 [Magic Loot](https://umod.org/plugins/magic-loot) 
+Simple components multiplier & loot system
+
+[Magic Meat](https://oxidemod.org/plugins/magicmeat.2011/) 
+Automatically converts raw meat to cooked
 
 [Magic Sets](https://umod.org/plugins/magic-sets) 
+Gearset presets
+
+[Magic Signs](https://oxidemod.org/plugins/magic-signs.1446/) 
+Load random images into signs upon deploy
+
+[Magic Tools](https://oxidemod.org/plugins/magic-tools.2428/) 
+Automatic smelting of mined resources
 
 [Magic Teleportation](https://umod.org/plugins/magic-teleportation) 
+Magical home/teleport system.
+
+[Mailing List](https://oxidemod.org/plugins/mailing-list.1388/) 
+Reward players for subscribing to your mailing list
 
 [Map Block](https://umod.org/plugins/map-block) 
+Creates a black marker over the map.
 
 [Map My Airdrop](https://umod.org/plugins/map-my-airdrop) 
+Displays a popup on Cargo spawn/drop with distance, and a marker on in-game map at drop position 
 
 [Map My Patrol](https://umod.org/plugins/map-my-patrol) 
+Adds red marker(s) on in-game map for Heli Patrol(s), HUD with details, and refresh on timer 
 
 [Martyrdom](https://umod.org/plugins/martyrdom) 
+Drop a grenade/beancan grenade/timed explosive on death
 
 [Master Key](https://umod.org/plugins/master-key) 
+Gain access and/or authorization to any locked object with permissions. 
 
 [Master Lock](https://umod.org/plugins/master-lock) 
+Gives players the ability to control all code locks in their base from the tool cupboard.
 
 [Max Cupboard Auths](https://umod.org/plugins/max-cupboard-auths) 
+Limits how many tool cupboards each player can authorize to 
 
 [Maze Gen](https://umod.org/plugins/maze-gen) 
+Creates mazes via commands 
 
 [Medic Revive](https://umod.org/plugins/medic-revive) 
+Pick players up from being wounded by injecting them with a medical syringe
 
 [Metabolism](https://umod.org/plugins/metabolism) 
+Modify or disable player metabolism stats and rates 
 
 [Minstrel](https://umod.org/plugins/minstrel) 
+Binds 1-8 to notes
+
+[Mind Freeze](https://oxidemod.org/plugins/mind-freeze.1198/) 
+Freeze players with a legit way.
 
 [Money Time](https://umod.org/plugins/money-time) 
+Pays players money via Economics for playing on your server 
+
+[Monument Finder](https://oxidemod.org/plugins/monumentfinder.2321/) 
+Allows easy teleportation to monuments
 
 [Monument Radiation](https://umod.org/plugins/monument-radiation) 
+Create radiation zones at designated monuments
+
+[MOTD GUI](https://oxidemod.org/plugins/motd-gui.1243/) 
+Shows a simple MOTD on the screen
 
 [Murderers](https://umod.org/plugins/murderers) 
+Spawn halloween murders saved points
 
 [My Birthday Cake](https://umod.org/plugins/my-birthday-cake) 
+Throw a birthday cake bomb 
 
 [My CH47](https://umod.org/plugins/my-ch47) 
+Allows players to spawn a CH47 helicopter 
 
 [My Hot Air Balloon](https://umod.org/plugins/my-hot-air-balloon) 
+Spawns a hot air balloon, HUD for status, speed setting and more 
 
 [MySQL Whitelist](https://umod.org/plugins/mysql-whitelist) 
+Restricts server access to only those whitelisted in a database 
 
 [N Teleportation](https://umod.org/plugins/n-teleportation) 
 Multiple teleportation systems for admins and players
 
 [Name Grabber](https://oxidemod.org/plugins/name-grabber.1292/) 
-A command to grab name of any item, deployable or entity
+Grab name of any item, deployable or entity
 
 [Never Wear](https://umod.org/plugins/never-wear) 
 Stops all items from losing condition 
@@ -1039,6 +1439,7 @@ No bug raiding with shelves
 Prevents players from sleeping and optionally removes player corpses
 
 [No Suicide](https://umod.org/plugins/no-suicide) 
+Stops players from suiciding/killing themselves 
 
 [No Supply Signal](https://umod.org/plugins/no-supply-signal) 
 Prevents supply drops triggering from supply signals 
@@ -1092,6 +1493,7 @@ Removes furnaces, lanterns, campfires, buildings, etc. on command
 Closes all doors owned by player when he disconnects
 
 [Offline Mail](https://umod.org/plugins/offline-mail) 
+Send messages to a player so they receive them on their next login 
 
 [OilCrate](https://oxidemod.org/plugins/oilcrate.2339/) 
 Brings the pump jack back into the game
@@ -1171,7 +1573,7 @@ Adds a discrete player counter to the HUD
 [Player Info](https://oxidemod.org/plugins/player-info.1063/) 
 Check your target's info and yours.
 
-[Player Manager[(https://oxidemod.org/plugins/player-manager.1535/) 
+[Player Manager](https://oxidemod.org/plugins/player-manager.1535/) 
 GUI-based player manager
 
 [Player Rankings](https://umod.org/plugins/player-rankings) 
@@ -1187,6 +1589,7 @@ GUI reporting for players after being killed
 Gives players with permission the ability to easily watch the movement of certain players 
 
 [Playtime Supply Signal](https://umod.org/plugins/playtime-supply-signal) 
+Gives players a Supply Signal, based on time played on server at configurable rate 
 
 [Political Survival](https://umod.org/plugins/political-survival) 
 Become the President, tax the server, and subjugate everyone!
