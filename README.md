@@ -440,6 +440,9 @@ Converts land mines to claymore anti-personal mines
 [Clean Up](https://umod.org/plugins/clean-up) 
 Cleans up deployables
 
+[CloudflareUpdater](https://oxidemod.org/plugins/cloudflareupdater.2385/) 
+Updates your Cloudflare domains with your server's IP
+
 [Clothing Slots](https://umod.org/plugins/clothing-slots) 
 Available inventory slots depends on clothing worn
 
@@ -854,8 +857,11 @@ NoClip Simulator for players with permission
 [File Indexer](https://umod.org/plugins/file-indexer) 
 Keep track of plugin data
 
+[FilterExt](https://oxidemod.org/plugins/filterext.1396/) 
+Extension to Oxide's filter for removing unwanted console messages
+
 [Fire Arrows](https://umod.org/plugins/fire-arrows) 
-Players can shoot arrows with fire
+*included* Players can shoot arrows with fire
 
 [Finder](https://oxidemod.org/plugins/finder.692/) 
 Find Players, SleepingBags, Buildings, Items, and teleport to them
@@ -892,6 +898,9 @@ Freezes players within radius for a short time
 
 [FreshStart](https://oxidemod.org/plugins/freshstart.2356/) 
 Removes all entities when killed by another player
+
+[Friends](https://oxidemod.org/plugins/friends.2120/) 
+Universal Friends Plugin
 
 [Friends API](https://umod.org/plugins/friends-api)
 Manage friends list
@@ -1225,6 +1234,9 @@ Control light state with no fuel usage
 
 [Lights Out](https://oxidemod.org/plugins/lightsout.2384/) 
 Allows you to turn off all ovens/lights.
+
+[Limit RCON](https://oxidemod.org/plugins/limitrcon.1990/)
+Limits RCON access to specific IP addresses
 
 [Limited Ladders](https://umod.org/plugins/limited-ladders) 
 Controls the placement of ladders where building is blocked
@@ -1685,6 +1697,9 @@ Create portals allowing players to walk through to another location
 [Portgun](https://umod.org/plugins/portgun) 
 Teleports player to object or terrain they are looking at 
 
+[Position](https://oxidemod.org/plugins/position.2192/) 
+Shows Players their position
+
 [Power Spawn](https://umod.org/plugins/power-spawn) 
 Controls player spawning
 
@@ -2138,6 +2153,9 @@ Collects and sends game information to the Survival Servers Network
 [Stack Size Controller](https://umod.org/plugins/stack-size-controller) 
 Allows you to set the max stack size of every item.
 
+[Staff Chat](https://oxidemod.org/plugins/staff-chat.2485/) 
+Private chat for staff and VIP players
+
 [Staffmode](https://umod.org/plugins/staffmode) 
 Allows you to set the max stack size of every item.
 
@@ -2182,6 +2200,12 @@ Allows players with permission the ability to get the Steam ID for player(s)
 
 [Steam ID Lookup](https://oxidemod.org/plugins/steam-id-lookup.1387/) 
 Lookup a player's Steam ID quickly
+
+[Steam Report](https://oxidemod.org/plugins/steamreport.2047/) 
+Sends in-game reports to admins via Steam
+
+[Sticky Chat](https://oxidemod.org/plugins/sticky-chat.1443/) 
+Allows to stick your chat to /pm /clan /reply
 
 [Storage Blocker](https://umod.org/plugins/storage-blocker) 
 Allows you to set the max stack size of every item.
@@ -2427,6 +2451,9 @@ Auto kick VPN users
 
 [Voice Mute](https://umod.org/plugins/voice-mute) 
 Voice mute via commands with time and optional reason 
+
+[VorEconomy](https://oxidemod.org/plugins/voreconomy.2387/) 
+Universal economy plugin using a custom user-defined currency
 
 [Vote Checker & Rewarder](https://oxidemod.org/plugins/vote-checker-rewarder.1216/) 
 e rewards to users for voting on game-servers.top & rust-servers.net
