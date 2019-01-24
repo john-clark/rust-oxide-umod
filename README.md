@@ -1,6 +1,6 @@
 # rust-oxide-umod
 
-*Because their site sucks and they need to be on github*
+*Because their site is hard to navigate and they need a repo on github*
 
 [Absolut Gifts](https://umod.org/plugins/absolut-gifts) 
 Daily gift reward system
@@ -467,6 +467,9 @@ blocks commands from being executed on the server
 [Command Rate Limiter](https://umod.org/plugins/command-rate-limiter) 
 Prevents command and key bind abuse
 
+[Command Spam](https://github.com/WeaselSauce/CommandSpam) 
+detect and rate limit players (via kick) who attempt to spam commands
+
 [Compass](https://oxidemod.org/plugins/compass.2605/) 
 Compass like in PUBG game
 
@@ -727,6 +730,9 @@ allows you to broadcast a message to the chat.
 
 [EasyChatCommands](https://oxidemod.org/plugins/easychatcommands.2308/) 
 Easily Add Chat Info Commands
+
+[Easy Chopper](https://github.com/nevern02/RustMods/tree/master/RustMods)
+Simplify dealing with attack helicopters similar to EasyAirdrop.
 
 [Easy Furnace](https://oxidemod.org/plugins/easyfurnace.1191/) 
 Auto fills and auto starts furnaces
@@ -1025,6 +1031,9 @@ Players can fly the Patrol Helicopter
 [Heli Vote](https://umod.org/plugins/heli-vote) 
 Allows players to open a vote to call helicopters
 
+[HelloRust](https://github.com/nevern02/RustMods/blob/master/RustMods/HelloRust.cs) 
+A simple Hello World example for writing Rust plugins
+
 [Help Text](https://umod.org/plugins/help-text) 
 Use /help
 
@@ -1057,6 +1066,9 @@ Adds interactive Human NPCs which can be modded by other plugins
 
 [Humanity System](https://oxidemod.org/plugins/humanity-system.1999/) 
 A humanity system based off of the DayZ mod
+
+[Hunger Games](https://github.com/nevern02/RustMods/blob/master/RustMods/HungerGames.cs) 
+Hunger Games Simulator
 
 [Hunt RPG](https://umod.org/plugins/hunt-rpg) 
 An RPG system with level, stats, skills, and specializations 
@@ -1225,6 +1237,9 @@ Stores all player usernames
 
 [Last Man Standing](https://umod.org/plugins/last-man-standing) 
 Fight to the death event for EventManager
+
+[Leader Board](https://github.com/nevern02/RustMods/blob/master/RustMods/LeaderBoard.cs) 
+A leaderboard for encouraging competition in various categories.
 
 [Life Stealer](https://umod.org/plugins/life-stealer) 
 Gives players health when they damage another player and optionally animals 
@@ -1937,6 +1952,18 @@ This plugin displays the rules on connect.
 [Running Man](https://umod.org/plugins/running-man) 
 Randomly selects a player to survive. Remaining players trys to kill him for a reward.
 
+[Rust Achievements](https://github.com/nevern02/RustMods/blob/master/RustMods/RustAchievements.cs) 
+An achievements system for a Rust server.
+
+[Rustcord](https://umod.org/plugins/rustcord) 
+Complete Discord server monitoring for Rust 
+
+[RustfallMobDrops](https://github.com/seany467/Plugins-For-Video-Game-Rust/blob/master/RustfallMobDrops.cs) 
+Modify drops?
+
+[Rust GPS](https://github.com/neilopet/RustGPS) 
+Real-time radar that displayed allies, enemies, heading, NPCs, airdrops, and supported labeling landmarks.
+
 [Rust Kits](https://umod.org/plugins/rust-kits) 
 Item kits, autokits, kit cooldowns, and more 
 
@@ -1960,9 +1987,6 @@ Disables friendly fire for Rust:IO friends
 
 [Rust:IO Template](https://oxidemod.org/plugins/rust-io-template.845/) 
 A template to help you get started to develop plugins using the Rust:IO API.
-
-[Rustcord](https://umod.org/plugins/rustcord) 
-Complete Discord server monitoring for Rust 
 
 [Rusted Store](https://umod.org/plugins/rusted-store)
 Donation system
@@ -2179,6 +2203,9 @@ Keeps track of all small stashes and where they are placed
 
 [Stash Traps](https://umod.org/plugins/stash-traps) 
 Catch ESP hackers quickly and efficiently! 
+
+[Stash Viz](https://github.com/nevern02/RustMods/blob/master/RustMods/StashViz.cs) 
+A simple plugin to help with locating your hidden stashes.
 
 [Stat Track](https://umod.org/plugins/stat-track) 
 Allows your players to get statstracking kills on items 
