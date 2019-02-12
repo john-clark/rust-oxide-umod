@@ -1,809 +1,809 @@
 ﻿# rust-oxide-umod
 
-These plugs are other category
+These plugins are other category
 
 
-[GetPos By Tammy] (http://something.something) 
-No Description found in plugin
+[GetPos By Tammy](http://nourlyet) 
+No Description
 
-[Advertise Me] (http://something.something) 
+[Advertise Me](http://nourlyet) 
 Lets players place eye catching advertisement messages.
 
-[AimTrain] (http://something.something) 
+[AimTrain](http://nourlyet) 
 Mkes you Trauzillz
 
-[baton] (http://something.something) 
+[baton](http://nourlyet) 
 Customizable airdrop
 
-[AllianceTracker] (http://something.something) 
-No Description found in plugin
+[AllianceTracker](http://nourlyet) 
+No Description
 
-[Anon] (http://something.something) 
+[Anon](http://nourlyet) 
 Anon messages
 
-[AntiKnox Anti-VPN] (http://something.something) 
+[AntiKnox Anti-VPN](http://nourlyet) 
 Disallow VPNs from accessing your server.
 
-[AntiLoot] (http://something.something) 
-No Description found in plugin
+[AntiLoot](http://nourlyet) 
+No Description
 
-[AntiLootDespawn] (http://something.something) 
+[AntiLootDespawn](http://nourlyet) 
 Change loot despawn time in cupboard radius
 
-[Automatic Client Commands] (http://something.something) 
-No Description found in plugin
+[Automatic Client Commands](http://nourlyet) 
+No Description
 
-[AutoCrafter] (http://something.something) 
+[AutoCrafter](http://nourlyet) 
 A machine that automatically crafts items so the player can do more interesting stuff instead.
 
-[AutoExchange] (http://something.something) 
+[AutoExchange](http://nourlyet) 
 AutoExchange Economics in RP
 
-[Auto Furnaces] (http://something.something) 
+[Auto Furnaces](http://nourlyet) 
 Automatically starts all furnaces after a server restart.
 
-[Autoloot] (http://something.something) 
+[Autoloot](http://nourlyet) 
 Autoloot entity
 
-[Automatic Authentication] (http://something.something) 
+[Automatic Authentication](http://nourlyet) 
 Runs the ownerid or moderatorid command on server startup to fix the issue of owners and moderators not being saved.
 
-[AutoPurge] (http://something.something) 
+[AutoPurge](http://nourlyet) 
 Remove entities if the owner becomes inactive.
 
-[Event Battlefield] (http://something.something) 
-No Description found in plugin
+[Event Battlefield](http://nourlyet) 
+No Description
 
-[Better Chat] (http://something.something) 
+[Better Chat](http://nourlyet) 
 Manage Chat Groups, Customize Colors And Add Titles.
 
-[Better Electricity] (http://something.something) 
+[Better Electricity](http://nourlyet) 
 Allows more control over electricity.
 
-[Better Researching] (http://something.something) 
+[Better Researching](http://nourlyet) 
 Allows instant researching and adjustable research chance.
 
-[BetterStability] (http://something.something) 
-No Description found in plugin
+[BetterStability](http://nourlyet) 
+No Description
 
-[Blessing of the Gods] (http://something.something) 
+[Blessing of the Gods](http://nourlyet) 
 Player get blessed by the gods.
 
-[BlockStashPlacement] (http://something.something) 
+[BlockStashPlacement](http://nourlyet) 
 Blocks small stash placement!
 
-[BlueprintSystem] (http://something.something) 
+[BlueprintSystem](http://nourlyet) 
 Bring back the old blueprint system, with some small changes
 
-[Boat Licence] (http://something.something) 
+[Boat Licence](http://nourlyet) 
 Allows players to buy a boat and then spawn or store it
 
-[Bounty Tracker] (http://something.something) 
-No Description found in plugin
+[Bounty Tracker](http://nourlyet) 
+No Description
 
-[Building Owners] (http://something.something) 
-No Description found in plugin
+[Building Owners](http://nourlyet) 
+No Description
 
-[CashSystem] (http://something.something) 
-No Description found in plugin
+[CashSystem](http://nourlyet) 
+No Description
 
-[Chat Guard] (http://something.something) 
+[Chat Guard](http://nourlyet) 
 Censor unwanted words/symbols from the chat
 
-[Chat History Fixer] (http://something.something) 
+[Chat History Fixer](http://nourlyet) 
 
 
-[Chat Reminders] (http://something.something) 
+[Chat Reminders](http://nourlyet) 
 Used to remind new and old players about server features.
 
-[CheckInventory By Tammy] (http://something.something) 
-No Description found in plugin
+[CheckInventory By Tammy](http://nourlyet) 
+No Description
 
-[Clans Rebirth] (http://something.something) 
+[Clans Rebirth](http://nourlyet) 
 Serenity's Clans Rebirth
 
-[CloudflareUpdater] (http://something.something) 
+[CloudflareUpdater](http://nourlyet) 
 Updates your Cloudflare domains with your server's IP
 
-[CodeLockNerf] (http://something.something) 
+[CodeLockNerf](http://nourlyet) 
 If you die, your character can forget your door codes, better keep that notepad ready.
 
-[Nickname Color Changer] (http://something.something) 
+[Nickname Color Changer](http://nourlyet) 
 Makes nicknames coloured using ROK registry system.
 
-[Testing Commander] (http://something.something) 
+[Testing Commander](http://nourlyet) 
 Tests stuff
 
-[CommandSpam] (http://something.something) 
+[CommandSpam](http://nourlyet) 
 Rate limit player command attempts to combat malicious attempts to lag servers.
 
-[Compass] (http://something.something) 
-No Description found in plugin
+[Compass](http://nourlyet) 
+No Description
 
-[ConsoleMessages] (http://something.something) 
+[ConsoleMessages](http://nourlyet) 
 Send messages to players with a console command
 
-[ConstructionConfig] (http://something.something) 
-No Description found in plugin
+[ConstructionConfig](http://nourlyet) 
+No Description
 
-[Player corpse duration modifier] (http://something.something) 
+[Player corpse duration modifier](http://nourlyet) 
 Allows the server owner to set the time that it takes for corpses to disappear.
 
-[Corpses] (http://something.something) 
-No Description found in plugin
+[Corpses](http://nourlyet) 
+No Description
 
-[Crafting Ownership] (http://something.something) 
+[Crafting Ownership](http://nourlyet) 
 Stores crafting station interactions and craftings
 
-[Crash Protection] (http://something.something) 
-No Description found in plugin
+[Crash Protection](http://nourlyet) 
+No Description
 
-[No Crest Attacks] (http://something.something) 
-No Description found in plugin
+[No Crest Attacks](http://nourlyet) 
+No Description
 
-[Cron Library] (http://something.something) 
+[Cron Library](http://nourlyet) 
 Cron Job Library for Oxide.
 
-[CupboardRestrictions] (http://something.something) 
+[CupboardRestrictions](http://nourlyet) 
 Confirms cupboards are only placed on foundations or floors.
 
-[CustomCommands] (http://something.something) 
-No Description found in plugin
+[CustomCommands](http://nourlyet) 
+No Description
 
-[DamageDisplayGUI] (http://something.something) 
+[DamageDisplayGUI](http://nourlyet) 
 Displays the given damage to a player in a GUI
 
-[DamageModifier] (http://something.something) 
-No Description found in plugin
+[DamageModifier](http://nourlyet) 
+No Description
 
-[NightMessage] (http://something.something) 
+[NightMessage](http://nourlyet) 
 Universal Day/Night Message
 
-[DaySeven] (http://something.something) 
+[DaySeven](http://nourlyet) 
 Tells a player when the 7th day is
 
-[DCProtect] (http://something.something) 
+[DCProtect](http://nourlyet) 
 Prevents players from looting other players that have disconnected for a specified time.
 
-[DeathKick] (http://something.something) 
-No Description found in plugin
+[DeathKick](http://nourlyet) 
+No Description
 
-[Death Messages] (http://something.something) 
+[Death Messages](http://nourlyet) 
 Displays a server wide messages of the player deaths.
 
-[DeclarationOfWar] (http://something.something) 
-No Description found in plugin
+[DeclarationOfWar](http://nourlyet) 
+No Description
 
-[Demolish Limiter] (http://something.something) 
-No Description found in plugin
+[Demolish Limiter](http://nourlyet) 
+No Description
 
-[Discord F7 Report] (http://something.something) 
+[Discord F7 Report](http://nourlyet) 
 Sends a message through Discord when a player sends a report using the F7 menu.
 
-[Distance] (http://something.something) 
-No Description found in plugin
+[Distance](http://nourlyet) 
+No Description
 
-[Draw] (http://something.something) 
-No Description found in plugin
+[Draw](http://nourlyet) 
+No Description
 
-[Drop Blocker] (http://something.something) 
+[Drop Blocker](http://nourlyet) 
 Anti drop items at the craft.
 
-[DuelsManager] (http://something.something) 
-No Description found in plugin
+[DuelsManager](http://nourlyet) 
+No Description
 
-[Easy Chat Commands] (http://something.something) 
+[Easy Chat Commands](http://nourlyet) 
 Custom Info Commands
 
-[EasyChopper] (http://something.something) 
+[EasyChopper](http://nourlyet) 
 Simplify dealing with attack helicopters similar to EasyAirdrop.
 
-[EasyFurnace] (http://something.something) 
-No Description found in plugin
+[EasyFurnace](http://nourlyet) 
+No Description
 
-[EasyTeams] (http://something.something) 
+[EasyTeams](http://nourlyet) 
 Easily create minigame/pvp teams
 
-[Electric Generator Tweaker] (http://something.something) 
+[Electric Generator Tweaker](http://nourlyet) 
 Change Electric Generator Attributes
 
-[EnchantTools] (http://something.something) 
+[EnchantTools](http://nourlyet) 
 Adds enchanted tools to the game that mining melted resources.
 
-[EpicLanterns] (http://something.something) 
+[EpicLanterns](http://nourlyet) 
 Automatically toggles lanterns after sunrise and sunset or in other given timeframe!
 
-[EventBox API] (http://something.something) 
+[EventBox API](http://nourlyet) 
 allows you to set up spots for boxes which other plugins can use.
 
-[Exodus] (http://something.something) 
+[Exodus](http://nourlyet) 
 Exodus Rust Gamemode.
 
-[ExternalWallStack] (http://something.something) 
+[ExternalWallStack](http://nourlyet) 
 Allows the players to stack high external walls on top of each other.
 
-[FactionsTax] (http://something.something) 
+[FactionsTax](http://nourlyet) 
 Applies a Tax to killed players. If the killing Faction has a Tax Box it will automatically collect a tax. Taxes expire after a period of time defined in the config.
 
-[FilterExt] (http://something.something) 
+[FilterExt](http://nourlyet) 
 Extension to Oxide's filter for removing unwanted console messages
 
-[Finder] (http://something.something) 
-No Description found in plugin
+[Finder](http://nourlyet) 
+No Description
 
-[FindOwner] (http://something.something) 
-No Description found in plugin
+[FindOwner](http://nourlyet) 
+No Description
 
-[Flamethrower] (http://something.something) 
-No Description found in plugin
+[Flamethrower](http://nourlyet) 
+No Description
 
-[FlashBang] (http://something.something) 
+[FlashBang](http://nourlyet) 
 Replaces grenade with a flashbang grenade.
 
-[Force Emote] (http://something.something) 
+[Force Emote](http://nourlyet) 
 Forces another player to do an emote on command
 
-[FreezeArrows] (http://something.something) 
-No Description found in plugin
+[FreezeArrows](http://nourlyet) 
+No Description
 
-[FreshStart] (http://something.something) 
+[FreshStart](http://nourlyet) 
 Removes all entities when killed by another player
 
-[Friends] (http://something.something) 
+[Friends](http://nourlyet) 
 An API to manage a friend list
 
-[GatherConfig] (http://something.something) 
-No Description found in plugin
+[GatherConfig](http://nourlyet) 
+No Description
 
-[Give] (http://something.something) 
+[Give](http://nourlyet) 
 Allows players with permission to give items or kits
 
-[GuildInfo] (http://something.something) 
-No Description found in plugin
+[GuildInfo](http://nourlyet) 
+No Description
 
-[GuildManager] (http://something.something) 
-No Description found in plugin
+[GuildManager](http://nourlyet) 
+No Description
 
-[Guildname] (http://something.something) 
-No Description found in plugin
+[Guildname](http://nourlyet) 
+No Description
 
-[Guild-Tag to Chat] (http://something.something) 
+[Guild-Tag to Chat](http://nourlyet) 
 Adds the guild tag to chat
 
-[HardcoreDeath] (http://something.something) 
+[HardcoreDeath](http://nourlyet) 
 Unlearn a random blueprint on death.
 
-[Hardcore GUI] (http://something.something) 
+[Hardcore GUI](http://nourlyet) 
 Hide players Health, Hydration & Saturation
 
-[HeadQuarters] (http://something.something) 
-No Description found in plugin
+[HeadQuarters](http://nourlyet) 
+No Description
 
-[Healing Arrows] (http://something.something) 
+[Healing Arrows](http://nourlyet) 
 Shoot arrows that heal their targets!
 
-[HeliConfig] (http://something.something) 
-No Description found in plugin
+[HeliConfig](http://nourlyet) 
+No Description
 
-[HelloRust] (http://something.something) 
+[HelloRust](http://nourlyet) 
 A simple Hello World example for writing Rust plugins
 
-[No Plugin Name found] (http://something.something) 
-No Description found in plugin
+[No Name](http://nourlyet) 
+No Description
 
-[HideKillerName] (http://something.something) 
+[HideKillerName](http://nourlyet) 
 Hides name of killers
 
-[Hitmarker GUI] (http://something.something) 
+[Hitmarker GUI](http://nourlyet) 
 This plugin informs the attacker/player if he hit someone..
 
-[HomeSigns] (http://something.something) 
+[HomeSigns](http://nourlyet) 
 Allows players to only place signs where they can build
 
-[Hulk] (http://something.something) 
-No Description found in plugin
+[Hulk](http://nourlyet) 
+No Description
 
-[Humanity System] (http://something.something) 
+[Humanity System](http://nourlyet) 
 A humanity system based off of DayZ mod.
 
-[HungerGames] (http://something.something) 
+[HungerGames](http://nourlyet) 
 A Hunger Games simulator.
 
-[Iceberg Blocker] (http://something.something) 
-No Description found in plugin
+[Iceberg Blocker](http://nourlyet) 
+No Description
 
-[ID Lookup] (http://something.something) 
+[ID Lookup](http://nourlyet) 
 Lookup a connected player's steamid
 
-[Ignore] (http://something.something) 
-No Description found in plugin
+[Ignore](http://nourlyet) 
+No Description
 
-[Image Library] (http://something.something) 
+[Image Library](http://nourlyet) 
 Plugin API for downloading and managing images
 
-[InstantXP] (http://something.something) 
-No Description found in plugin
+[InstantXP](http://nourlyet) 
+No Description
 
-[InventoryInfo] (http://something.something) 
-No Description found in plugin
+[InventoryInfo](http://nourlyet) 
+No Description
 
-[InventoryShield] (http://something.something) 
-No Description found in plugin
+[InventoryShield](http://nourlyet) 
+No Description
 
-[Invulnerable Sleepers] (http://something.something) 
-No Description found in plugin
+[Invulnerable Sleepers](http://nourlyet) 
+No Description
 
-[IRBench] (http://something.something) 
+[IRBench](http://nourlyet) 
 Repair without losing durability!
 
-[ItemConfig] (http://something.something) 
-No Description found in plugin
+[ItemConfig](http://nourlyet) 
+No Description
 
-[ItemListOutput] (http://something.something) 
+[ItemListOutput](http://nourlyet) 
 Outputs a list of items.
 
-[Items Info] (http://something.something) 
+[Items Info](http://nourlyet) 
 Get actual information about items.
 
-[ItemSplitter] (http://something.something) 
+[ItemSplitter](http://nourlyet) 
 It allow you to easily split your items from your main inventory.
 
-[SimpleBlockProtection] (http://something.something) 
-No Description found in plugin
+[SimpleBlockProtection](http://nourlyet) 
+No Description
 
-[AntiSleeperKiller] (http://something.something) 
-No Description found in plugin
+[AntiSleeperKiller](http://nourlyet) 
+No Description
 
-[KDGUI] (http://something.something) 
+[KDGUI](http://nourlyet) 
 Simple Plugin For Displaying A User's Kills And Deaths On Screen.
 
-[KillRewards] (http://something.something) 
-No Description found in plugin
+[KillRewards](http://nourlyet) 
+No Description
 
-[KingsLottery] (http://something.something) 
+[KingsLottery](http://nourlyet) 
 A way for players to gamble
 
-[Laptop Crate Hack] (http://something.something) 
+[Laptop Crate Hack](http://nourlyet) 
 Require a laptop to hack a crate.
 
-[LastName] (http://something.something) 
+[LastName](http://nourlyet) 
 Stores all player usernames
 
-[LeaderBoard] (http://something.something) 
+[LeaderBoard](http://nourlyet) 
 A leaderboard for encouraging competition in various categories.
 
-[LevelSystem] (http://something.something) 
-No Description found in plugin
+[LevelSystem](http://nourlyet) 
+No Description
 
-[LightsOut] (http://something.something) 
+[LightsOut](http://nourlyet) 
 A plugin to control all light sources.
 
-[LimitedSuicide] (http://something.something) 
-No Description found in plugin
+[LimitedSuicide](http://nourlyet) 
+No Description
 
-[Testing Commander] (http://something.something) 
+[Testing Commander](http://nourlyet) 
 Tests stuff
 
-[LockPickManager] (http://something.something) 
-No Description found in plugin
+[LockPickManager](http://nourlyet) 
+No Description
 
-[Loot Config] (http://something.something) 
+[Loot Config](http://nourlyet) 
 Allows you to adjust the server's loot list
 
-[Loot Despawn] (http://something.something) 
+[Loot Despawn](http://nourlyet) 
 Customize loot despawn
 
-[LootPrivilege] (http://something.something) 
-No Description found in plugin
+[LootPrivilege](http://nourlyet) 
+No Description
 
-[Loot Scaling] (http://something.something) 
+[Loot Scaling](http://nourlyet) 
 Scale loot spawn rate/density by player count.
 
-[MagicMeat] (http://something.something) 
+[MagicMeat](http://nourlyet) 
 Item replacement plugin - originally for converting uncooked meat to cooked meat
 
-[MagicStakes] (http://something.something) 
+[MagicStakes](http://nourlyet) 
 Change spawnpoint via command.
 
-[MagicTools] (http://something.something) 
-No Description found in plugin
+[MagicTools](http://nourlyet) 
+No Description
 
-[MailingList] (http://something.something) 
+[MailingList](http://nourlyet) 
 Get virtual rewards for giving a complete stranger your personal email address.
 
-[Map My AirDrop] (http://something.something) 
+[Map My AirDrop](http://nourlyet) 
 Display a popup on Cargo Plane spawn, and a marker on ingame map at drop position.
 
-[Map My Patrol] (http://something.something) 
+[Map My Patrol](http://nourlyet) 
 Adds red marker(s) on ingame map for Heli Patrol(s) position, HUD with details, and refresh on timer.
 
-[Medical Tool Tweaker] (http://something.something) 
+[Medical Tool Tweaker](http://nourlyet) 
 Modify medical tools variables
 
-[MessageBird] (http://something.something) 
-No Description found in plugin
+[MessageBird](http://nourlyet) 
+No Description
 
-[MonumentFinder] (http://something.something) 
+[MonumentFinder](http://nourlyet) 
 Allows admins to teleport to monuments.
 
-[Motd GUI] (http://something.something) 
+[Motd GUI](http://nourlyet) 
 Simple Motd on the screen.
 
-[MSort] (http://something.something) 
-No Description found in plugin
+[MSort](http://nourlyet) 
+No Description
 
-[MSortSplit] (http://something.something) 
-No Description found in plugin
+[MSortSplit](http://nourlyet) 
+No Description
 
-[My Mini Copter] (http://something.something) 
+[My Mini Copter](http://nourlyet) 
 Spawn a Mini Helicopter
 
-[NameGrabber] (http://something.something) 
-No Description found in plugin
+[NameGrabber](http://nourlyet) 
+No Description
 
-[Night Killing Only] (http://something.something) 
-No Description found in plugin
+[Night Killing Only](http://nourlyet) 
+No Description
 
-[NightsWatch] (http://something.something) 
-No Description found in plugin
+[NightsWatch](http://nourlyet) 
+No Description
 
-[NoAdminOwnership] (http://something.something) 
-No Description found in plugin
+[NoAdminOwnership](http://nourlyet) 
+No Description
 
-[NoAnimals] (http://something.something) 
+[NoAnimals](http://nourlyet) 
 This plugin removes all animals from your server.
 
-[NoBowRaid] (http://something.something) 
+[NoBowRaid](http://nourlyet) 
 Gets rid of one of the most broken mechanics in Rust
 
-[NoBugs] (http://something.something) 
-No Description found in plugin
+[NoBugs](http://nourlyet) 
+No Description
 
-[NoCold] (http://something.something) 
+[NoCold](http://nourlyet) 
 Disables cold and heat effecting player.
 
-[NoCost] (http://something.something) 
+[NoCost](http://nourlyet) 
 Choose a materials that won't be consumed while crafting.
 
-[No Medical Healing] (http://something.something) 
+[No Medical Healing](http://nourlyet) 
 Null medical healing
 
-[NoSeedGrief] (http://something.something) 
-No Description found in plugin
+[NoSeedGrief](http://nourlyet) 
+No Description
 
-[No Signs] (http://something.something) 
-No Description found in plugin
+[No Signs](http://nourlyet) 
+No Description
 
-[Note Write Control] (http://something.something) 
+[Note Write Control](http://nourlyet) 
 Control how players can write notes (create new, append to, or edit all)
 
-[Notifier] (http://something.something) 
+[Notifier](http://nourlyet) 
 Server administration tool with chat based notifications
 
-[NoWaterBuild] (http://something.something) 
-No Description found in plugin
+[NoWaterBuild](http://nourlyet) 
+No Description
 
-[NPC Drop Gun] (http://something.something) 
+[NPC Drop Gun](http://nourlyet) 
 Forces NPC to drop used gun and some ammo after death
 
-[Out Of Character chat] (http://something.something) 
-No Description found in plugin
+[Out Of Character chat](http://nourlyet) 
+No Description
 
-[PaiN AFK] (http://something.something) 
-No Description found in plugin
+[PaiN AFK](http://nourlyet) 
+No Description
 
-[PayDamage] (http://something.something) 
-No Description found in plugin
+[PayDamage](http://nourlyet) 
+No Description
 
-[Permadeath] (http://something.something) 
-No Description found in plugin
+[Permadeath](http://nourlyet) 
+No Description
 
-[Personal Messenger] (http://something.something) 
-No Description found in plugin
+[Personal Messenger](http://nourlyet) 
+No Description
 
-[Personnal Map] (http://something.something) 
-No Description found in plugin
+[Personnal Map](http://nourlyet) 
+No Description
 
-[PlagueDamageToggle] (http://something.something) 
-No Description found in plugin
+[PlagueDamageToggle](http://nourlyet) 
+No Description
 
-[PlayerCount] (http://something.something) 
-No Description found in plugin
+[PlayerCount](http://nourlyet) 
+No Description
 
-[PlayerCounter] (http://something.something) 
+[PlayerCounter](http://nourlyet) 
 Adds a discrete player counter to the HUD
 
-[Player Damage] (http://something.something) 
+[Player Damage](http://nourlyet) 
 Turn ON/OFF the player damage.
 
-[PlayerManager] (http://something.something) 
-No Description found in plugin
+[PlayerManager](http://nourlyet) 
+No Description
 
-[PlayerRadar] (http://something.something) 
-No Description found in plugin
+[PlayerRadar](http://nourlyet) 
+No Description
 
-[PlayTime] (http://something.something) 
+[PlayTime](http://nourlyet) 
 Logs players play time and allows you to view the players play time with a command.
 
-[PluginBoilerplate] (http://something.something) 
+[PluginBoilerplate](http://nourlyet) 
 A boilerplate with a little bit of everything to get you started.
 
-[PluginStarterTemplate] (http://something.something) 
+[PluginStarterTemplate](http://nourlyet) 
 A basic plugin template with some commonly used hooks.
 
-[PopUpManager] (http://something.something) 
-No Description found in plugin
+[PopUpManager](http://nourlyet) 
+No Description
 
-[Position] (http://something.something) 
+[Position](http://nourlyet) 
 Shows players their positions.
 
-[Prison] (http://something.something) 
-No Description found in plugin
+[Prison](http://nourlyet) 
+No Description
 
-[PrivateZones] (http://something.something) 
-No Description found in plugin
+[PrivateZones](http://nourlyet) 
+No Description
 
-[Prod] (http://something.something) 
-No Description found in plugin
+[Prod](http://nourlyet) 
+No Description
 
-[ProfessionSystem] (http://something.something) 
-No Description found in plugin
+[ProfessionSystem](http://nourlyet) 
+No Description
 
-[PromoSpawner] (http://something.something) 
+[PromoSpawner](http://nourlyet) 
 Spawns create on random place with note that contents promocode
 
-[ProtectedZone] (http://something.something) 
-No Description found in plugin
+[ProtectedZone](http://nourlyet) 
+No Description
 
-[Pwn] (http://something.something) 
-No Description found in plugin
+[Pwn](http://nourlyet) 
+No Description
 
-[QuarryFactory] (http://something.something) 
+[QuarryFactory](http://nourlyet) 
 Spawn items inside the quarry when it gathers resources
 
-[Quarry Health] (http://something.something) 
+[Quarry Health](http://nourlyet) 
 Changes the health value of quarries.
 
-[Quarry-Locks] (http://something.something) 
+[Quarry-Locks](http://nourlyet) 
 Added customizable locks to a quarry
 
-[QueueHolder] (http://something.something) 
+[QueueHolder](http://nourlyet) 
 Saves your position in queue if you disconnect
 
-[QuickMenu] (http://something.something) 
-No Description found in plugin
+[QuickMenu](http://nourlyet) 
+No Description
 
-[RaceSystem] (http://something.something) 
-No Description found in plugin
+[RaceSystem](http://nourlyet) 
+No Description
 
-[RaidBoss] (http://something.something) 
-No Description found in plugin
+[RaidBoss](http://nourlyet) 
+No Description
 
-[RaidOffDefender] (http://something.something) 
-No Description found in plugin
+[RaidOffDefender](http://nourlyet) 
+No Description
 
-[Random Spawner] (http://something.something) 
+[Random Spawner](http://nourlyet) 
 Randomly Spawn a specific amount of an entity on the map
 
-[RecoveryItems] (http://something.something) 
+[RecoveryItems](http://nourlyet) 
 If you wear an item it is recovered.
 
-[RectZones] (http://something.something) 
+[RectZones](http://nourlyet) 
 Creates polygonal zones
 
-[RemoteDoors] (http://something.something) 
-No Description found in plugin
+[RemoteDoors](http://nourlyet) 
+No Description
 
-[RemoveAAA] (http://something.something) 
+[RemoveAAA](http://nourlyet) 
 Removes admin abuse announcements!
 
-[RemoveM] (http://something.something) 
+[RemoveM](http://nourlyet) 
 Removes stupid messages!
 
-[RespawnMessages] (http://something.something) 
+[RespawnMessages](http://nourlyet) 
 Customize respawn messages sent to players on respawn
 
-[RewardingCraft] (http://something.something) 
+[RewardingCraft](http://nourlyet) 
 The more you craft, the more you learn !
 
-[RidableHorses] (http://something.something) 
+[RidableHorses](http://nourlyet) 
 Able to tame and ride horses around
 
-[Kits] (http://something.something) 
-No Description found in plugin
+[Kits](http://nourlyet) 
+No Description
 
-[RPS Battles] (http://something.something) 
+[RPS Battles](http://nourlyet) 
 Rock Paper Scissors game
 
-[Rules GUI] (http://something.something) 
+[Rules GUI](http://nourlyet) 
 This plugin displays the rules on connect.
 
-[RustAchievements] (http://something.something) 
+[RustAchievements](http://nourlyet) 
 An achievements system for a Rust server.
 
-[RustFallMobDrops] (http://something.something) 
+[RustFallMobDrops](http://nourlyet) 
 Mob Drop Handler
 
-[No Plugin Name found] (http://something.something) 
-No Description found in plugin
+[No Name](http://nourlyet) 
+No Description
 
-[Rust:IO Clans] (http://something.something) 
+[Rust:IO Clans](http://nourlyet) 
 Allows your players to form and manage clans with Rust:IO
 
-[RustIOFriendListAPI] (http://something.something) 
+[RustIOFriendListAPI](http://nourlyet) 
 Plugin designed work with RustIOs Friend list
 
-[FriendlyFire] (http://something.something) 
-No Description found in plugin
+[FriendlyFire](http://nourlyet) 
+No Description
 
-[Plugin name] (http://something.something) 
-No Description found in plugin
+[Plugin name](http://nourlyet) 
+No Description
 
-[No Plugin Name found] (http://something.something) 
-No Description found in plugin
+[No Name](http://nourlyet) 
+No Description
 
-[SaveAlerter] (http://something.something) 
+[SaveAlerter](http://nourlyet) 
 A small save icon when the server saves.
 
-[SchedShutdown] (http://something.something) 
-No Description found in plugin
+[SchedShutdown](http://nourlyet) 
+No Description
 
-[ScreenTimer] (http://something.something) 
+[ScreenTimer](http://nourlyet) 
 A timer enhanced system for OxideMod Rust
 
-[Scuba Steve] (http://something.something) 
+[Scuba Steve](http://nourlyet) 
 Be the SEAL, this will protect you from drowning and cold damage while swimming.
 
-[ShowCrosshair] (http://something.something) 
+[ShowCrosshair](http://nourlyet) 
 Shows a crosshair on the screen.
 
-[ShowHealth] (http://something.something) 
+[ShowHealth](http://nourlyet) 
 Check any player's health
 
-[ShowHitInfo] (http://something.something) 
+[ShowHitInfo](http://nourlyet) 
 Displays the amount of damage a player deals upon hitting another entity to the player's chat log.
 
-[SignHistory] (http://something.something) 
+[SignHistory](http://nourlyet) 
 Creates a changelog for signs.
 
-[Simple PvP Stats] (http://something.something) 
+[Simple PvP Stats](http://nourlyet) 
 Simple Pvp Statistics is a plugin to show its statistics by an in-game chat command.
 
-[Simple Kill Feed] (http://something.something) 
+[Simple Kill Feed](http://nourlyet) 
 A simple kill feed, that displays in the top right corner various kill events.
 
-[Simple PvP Stats] (http://something.something) 
+[Simple PvP Stats](http://nourlyet) 
 Simple Pvp Statistics is a plugin to show its statistics by an in-game chat command.
 
-[Sleeper] (http://something.something) 
-No Description found in plugin
+[Sleeper](http://nourlyet) 
+No Description
 
-[SleepingSystemGUI] (http://something.something) 
+[SleepingSystemGUI](http://nourlyet) 
 GUI Based Sleeping system.
 
-[Slowmode Chat] (http://something.something) 
+[Slowmode Chat](http://nourlyet) 
 Restrict players messages per second on a configurable interval
 
-[Smart Homes] (http://something.something) 
+[Smart Homes](http://nourlyet) 
 A pretty cool plugin ;)
 
-[SpawnConfig] (http://something.something) 
-No Description found in plugin
+[SpawnConfig](http://nourlyet) 
+No Description
 
-[Spin Drop] (http://something.something) 
+[Spin Drop](http://nourlyet) 
 Spin around dropped items
 
-[Staff Chat] (http://something.something) 
+[Staff Chat](http://nourlyet) 
 Private chat for staff members and other VIP players
 
-[Start Machine] (http://something.something) 
+[Start Machine](http://nourlyet) 
 Automatically start machines on server startup and by manual control
 
-[StashControl] (http://something.something) 
+[StashControl](http://nourlyet) 
 Manage small stashes
 
-[StashViz] (http://something.something) 
+[StashViz](http://nourlyet) 
 A simple plugin to help with locating your hidden stashes.
 
-[SteamReport] (http://something.something) 
+[SteamReport](http://nourlyet) 
 Sends in-game reports to admins via Steam.
 
-[StickyChat] (http://something.something) 
-No Description found in plugin
+[StickyChat](http://nourlyet) 
+No Description
 
-[StorageWhitelist] (http://something.something) 
-No Description found in plugin
+[StorageWhitelist](http://nourlyet) 
+No Description
 
-[Suicide Cooldown] (http://something.something) 
-No Description found in plugin
+[Suicide Cooldown](http://nourlyet) 
+No Description
 
-[Supply Drop Destroyer] (http://something.something) 
+[Supply Drop Destroyer](http://nourlyet) 
 This plugin destroys the supply drop container after x seconds.
 
-[SyringeDenerf] (http://something.something) 
+[SyringeDenerf](http://nourlyet) 
 Syringe healing customization plugin
 
-[Tear Up BluePrints] (http://something.something) 
+[Tear Up BluePrints](http://nourlyet) 
 This will allow players to 'Tear up' Blueprints for BP Fragments
 
-[TemporaryBags] (http://something.something) 
-No Description found in plugin
+[TemporaryBags](http://nourlyet) 
+No Description
 
-[Timber] (http://something.something) 
+[Timber](http://nourlyet) 
 Makes trees and cacti fall before being destroyed.
 
-[ToukDurability] (http://something.something) 
+[ToukDurability](http://nourlyet) 
 Customize durability
 
-[Tracker] (http://something.something) 
+[Tracker](http://nourlyet) 
 Check the amount of an Item on the Map and where it is stored in
 
-[UCompass] (http://something.something) 
-No Description found in plugin
+[UCompass](http://nourlyet) 
+No Description
 
-[ULog] (http://something.something) 
+[ULog](http://nourlyet) 
 Logs some things
 
-[Updater] (http://something.something) 
+[Updater](http://nourlyet) 
 Notifies you if you have outdated plugins.
 
-[Vehicle Licence] (http://something.something) 
+[Vehicle Licence](http://nourlyet) 
 Allows players to buy vehicles and then spawn or store it
 
-[VendorRotateProtection] (http://something.something) 
+[VendorRotateProtection](http://nourlyet) 
 Prevents anyone except the entity owner from rotating vending machine.
 
-[VIPNoDecay] (http://something.something) 
+[VIPNoDecay](http://nourlyet) 
 Disables Decay Damage for player or oxide group with VIP permissions
 
-[VisionLocks] (http://something.something) 
+[VisionLocks](http://nourlyet) 
 Prevents damage on anything that is locked
 
-[VorEconomy] (http://something.something) 
+[VorEconomy](http://nourlyet) 
 Universal Economy plugin using a custom user-defined currency.
 
-[VoteChecker] (http://something.something) 
-No Description found in plugin
+[VoteChecker](http://nourlyet) 
+No Description
 
-[WAnswer] (http://something.something) 
+[WAnswer](http://nourlyet) 
 Questions? Answers!
 
-[Wanted For Murder] (http://something.something) 
+[Wanted For Murder](http://nourlyet) 
 Players can punish unwanted PvP.
 
-[Warp System] (http://something.something) 
+[Warp System](http://nourlyet) 
 Original Developer: Dathus BR || Create warp points for players.
 
-[WeaponsShownOnBack] (http://something.something) 
+[WeaponsShownOnBack](http://nourlyet) 
 Shows player's best two weapons holstered on their back
 
-[Weather Controller] (http://something.something) 
+[Weather Controller](http://nourlyet) 
 Allows you to control the weather.
 
-[Welcomer] (http://something.something) 
+[Welcomer](http://nourlyet) 
 Provides welcome and join/leave messages
 
-[WellFed] (http://something.something) 
-No Description found in plugin
+[WellFed](http://nourlyet) 
+No Description
 
-[World Quarry] (http://something.something) 
-No Description found in plugin
+[World Quarry](http://nourlyet) 
+No Description
 
-[XP Backup] (http://something.something) 
-No Description found in plugin
+[XP Backup](http://nourlyet) 
+No Description
 
-[XP Death Reducer] (http://something.something) 
-No Description found in plugin
+[XP Death Reducer](http://nourlyet) 
+No Description
 
-[XPEqualizer] (http://something.something) 
-No Description found in plugin
+[XPEqualizer](http://nourlyet) 
+No Description
 
-[XP Permissions] (http://something.something) 
+[XP Permissions](http://nourlyet) 
 Grants player permission on their level up.
 
-[XP Sync] (http://something.something) 
-No Description found in plugin
+[XP Sync](http://nourlyet) 
+No Description
 
-[Zone Chat Prefix] (http://something.something) 
+[Zone Chat Prefix](http://nourlyet) 
 Add Zone prefix to player chat
 
