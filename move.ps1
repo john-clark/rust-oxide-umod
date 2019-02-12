@@ -1,8 +1,8 @@
 
 $catagory = "rust"
-$source = "C:\backups\plugins\$catagory"
-$clean = "C:\Users\Administrator\rust-oxide-umod\plugins"
-$dest = "C:\Users\Administrator\rust-oxide-umod\plugins\umod\$catagory"
+$source = .\plugins\$catagory"
+$clean = ".\rust-oxide-umod\plugins"
+$dest = ".\rust-oxide-umod\plugins\umod\$catagory"
 write-host "Working on $catagory" -foregroundcolor red
 ForEach ($file in Get-ChildItem $clean) {
 	if (Test-Path "$source\$file") {
@@ -11,9 +11,9 @@ ForEach ($file in Get-ChildItem $clean) {
 	}
 }
 $catagory = "universal"
-$source = "C:\backups\plugins\$catagory"
-$clean = "C:\Users\Administrator\rust-oxide-umod\plugins"
-$dest = "C:\Users\Administrator\rust-oxide-umod\plugins\umod\$catagory"
+$source = ".\plugins\$catagory"
+$clean = ".\rust-oxide-umod\plugins"
+$dest = ".\rust-oxide-umod\plugins\umod\$catagory"
 write-host "Working on $catagory" -foregroundcolor red
  ForEach ($file in Get-ChildItem $clean) {
 	if (Test-Path "$source\$file") {

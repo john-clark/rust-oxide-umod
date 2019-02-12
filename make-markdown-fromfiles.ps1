@@ -1,5 +1,5 @@
 #make markdown file in folder by reading info from plugins (no links)
-$workdir="universal"
+$workdir="other"
 $PluginsDir = ".\plugins\$workdir"
 $saveFileName = "README-fromfiles.md"
 
@@ -22,7 +22,7 @@ foreach-Object {
     } catch {
        $plugindescription='No Description'
     }
-	$infoline = "[$pluginname] (http://nourlyet) `n$plugindescription`n"
+	$infoline = "[$pluginname](http://nourlyet) `n$plugindescription`n"
 	#write-host $infoline 
 	Add-Content "$PluginsDir\$saveFileName" "$infoline" -encoding UTF8
 }
