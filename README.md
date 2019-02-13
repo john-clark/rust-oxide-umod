@@ -3,6 +3,7 @@
 
 *Because their site has flood protection and they need a plugin repo on github for speed*
 ## notes
+* I am in the middle of this project
 * I am not a programmer or know anything about  any computer languages
 * This is an attempt at randomly pressing keys and trying to get something to work
 * None of these files are finished or properly working
