@@ -11,7 +11,8 @@
 * This is here only so I can work on multiple machines without copying files back and forth
 * I noticed that some authors modify plugins without updating version info :(
 
-```cmd
+## install
+```powershell
 install-script install-git
 Set-Executionpolicy -Scope CurrentUser -ExecutionPolicy UnRestricted
 install-git.ps1
