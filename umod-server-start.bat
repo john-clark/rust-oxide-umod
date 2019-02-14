@@ -1,5 +1,6 @@
 @echo off
 SETLOCAL
+echo "run powershell\install.ps1 and then delete this file"
 :start
 set _date=%date:~4%
 set _date=%_date:/=-%
