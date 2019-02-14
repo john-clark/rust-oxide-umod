@@ -15,8 +15,8 @@
     Run script and it will update your plugins
 #>
 
-$srvpluginsdir = "C:\rustserver\oxide\plugins"
-$gitpluginsdir = "C:\rust-oxide-umod\plugins"
+$srvpluginsdir = "C:\rust-oxide-umod\oxide\plugins"
+$gitpluginsdir = "C:\rust-oxide-umod\oxide\plugins"
 $BackupPluginsDir = "C:\backups\pluginsupdated\" + (get-date -Format yyyyMMdd-HH)
 
 <#

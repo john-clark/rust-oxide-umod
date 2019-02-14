@@ -21,7 +21,7 @@
 -------------------------------------------------------------------------
 #>
 
-$rustdir = "C:\rustserver"
+$rustdir = "C:\rust-oxide-umod"
 $backupdir = "C:\backups"
 
 <#
@@ -103,7 +103,7 @@ Write-Host '[Updating Game]' -ForegroundColor yellow
 if (-NOT (Test-Path $steamupdate)) {
     Add-Content $umodlogfile "NO STEAM UPDATE TODAY" -encoding ASCII
     Write-Host 'Updating... please wait.' -ForegroundColor white
-    $cmd = "C:\steam\steamcmd.exe +login anonymous +force_install_dir $rustdir +app_update 258550 validate +quit"
+    $cmd = "C:\steamcmd\steamcmd.exe +login anonymous +force_install_dir $rustdir +app_update 258550 validate +quit"
     Add-Content $umodlogfile "RUNNING: $cmd"
     try { Invoke-Expression $cmd | Out-file $umodlogfile -append -encoding ASCII }
     catch {
