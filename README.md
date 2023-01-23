@@ -12,18 +12,16 @@
 
 ## install
 
+**Tested environment**
+
+* Windows Server 2022 (no desktop env, 2023 dvd)
+* SConfig - name, manual updates, telemtry off, timezone set
+
 ```powershell
-install-script install-git
-Set-Executionpolicy -Scope CurrentUser -ExecutionPolicy UnRestricted
-install-git.ps1
-$ENV:PATH = "$((Get-ItemProperty -Path 'Registry::HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment' -Name Path).Path);$((Get-ItemProperty HKCU:\Environment).PATH)"
-cd \
-mkdir backups
-git clone https://github.com/john-clark/rust-oxide-umod.git
-cd .\rust-oxide-umod
-cp umod-server-vars.cfg.example umod-server-vars.cfg
-notepad .\umod-server-vars.cfg
-cmd.exe /c .\powershell\install-steamcmd.bat
-notepad .\umod-server-start.bat
-cmd.exe /c .\umod-server-start.bat
+$source = "https://tinyurl.com/rustoxumod"
+# Real link is here if tinyul stops working
+# https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/install.ps1
+Invoke-WebRequest -UseBasicParsing -Uri $source -OutFile "install.ps1"
+# Run the installer
+.\install.ps1
 ```

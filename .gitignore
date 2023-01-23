@@ -1,0 +1,8 @@
+umod-server-vars.cfg
+Bundles/
+MonoBleedingEdge/
+RustDedicated_Data/
+cfg/
+steamapps/
+*.dll
+*.exe
