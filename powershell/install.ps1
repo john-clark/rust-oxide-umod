@@ -13,8 +13,20 @@ IF(!(Test-Path "C:\Program Files\7-Zip")) {
  Remove-Item $installerPath 
 } 
 Write-Host "7-Zip Installed"
+IF(!(Test-Path "C:\Windows\System32\opengl32.dll")) {
+ IF(!(Test-Path ".\mesa.7z")) {
+   Invoke-WebRequest -UseBasicParsing -uri "https://downloads.fdossena.com/geth.php?r=mesa64-latest" -OutFile .\mesa.7z
+ } 
+ Write-Host "opengl downloaded"
+ & ${env:ProgramFiles}\7-zip\7z.exe x .\mesa.7z -y >$null
+ Move-Item -Path ".\opengl32.dll" -Destination "C:\Windows\System32\opengl32.dll"
+}
+Write-Host "OpenGL Installed"
+
+#fix paths
 #$ENV:PATH = "$((Get-ItemProperty -Path 'Registry::HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\Environment' -Name Path).Path);$((Get-ItemProperty HKCU:\Environment).PATH)"
 cd \
+
 IF(!(Test-Path "C:\rust-oxide-umod")) {
 & 'C:\Program Files\Git\bin\git.exe' clone https://github.com/john-clark/rust-oxide-umod.git
 }

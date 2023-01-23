@@ -49,7 +49,7 @@ Write-Host 'Starting uMod Updater...' -ForegroundColor white
 
 <#
 -------------------------------------------------------------------------
-                           BACKUP SERVER FOLDER
+                           Check Install Preq
 -------------------------------------------------------------------------
 #>
 
@@ -57,13 +57,16 @@ Write-Host 'Starting uMod Updater...' -ForegroundColor white
 if (-not (test-path "$env:ProgramFiles\7-Zip\7z.exe")) {
     Add-Content $umodlogfile "DID NOT FIND 7ZIP" -encoding ASCII
     Write-Host '$env:ProgramFiles\7-Zip\7z.exe needed' -ForegroundColor red
-    #
-    # We will fix this with the auto download but will do it later
-    #
     break
     }
 Add-Content $umodlogfile "FOUND 7ZIP" -encoding ASCII
 set-alias Seven-Zip "$env:ProgramFiles\7-Zip\7z.exe"
+
+<#
+-------------------------------------------------------------------------
+                           BACKUP SERVER FOLDER
+-------------------------------------------------------------------------
+#>
 
 #make sure there is a backups dir if this is the first time run
 if (-NOT (Test-Path $backupdir)) {
@@ -146,11 +149,11 @@ if (-NOT (Test-Path ($backupdir + '\' + $oxidezip))) {
 }
 #extract oxide no matter what
 Write-Host 'Extracting...' -ForegroundColor white
-$cmd = "seven-Zip x -aoa -y `"$backupdir\$oxidezip`" -o`"$rustdir\`""
+$cmd = "Seven-Zip x -aoa -y `"$backupdir\$oxidezip`" -o`"$rustdir\`""
 Add-Content $umodlogfile "RUNNING: $cmd"
 try { Invoke-Expression $cmd | Out-file $umodlogfile -append -encoding ASCII }
 catch {
-    Add-Content $umodlogfile "ERROR EXTRACKING uMod ZIP" -encoding ASCII
+    Add-Content $umodlogfile "ERROR EXTRACTING uMod ZIP" -encoding ASCII
     break }
 New-Item -Path $oxideupdate -ItemType File -Force | Out-null
 Write-Host 'Completed uMod installation' -ForegroundColor green
