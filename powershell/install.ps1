@@ -73,20 +73,6 @@ Write-Host "OpenGL Installed"
 
 <#
 -------------------------------------------------------------------------
-                               Install Steam
--------------------------------------------------------------------------
-#>
-
-IF(!(Test-Path "C:\SteamCMD")) {
- Write-Host "Downloading SteamCMD" -ForegroundColor Yellow -BackgroundColor red
- #run installer in new window
- #Start-Process -Wait "Steam Installer" /D "C:\" cmd.exe /K C:\rust-oxide-umod\powershell\install-steamcmd.bat
- & C:\rust-oxide-umod\powershell\install-steamcmd.bat
-}
-Write-Host "Steam Installed"
-
-<#
--------------------------------------------------------------------------
                               Download Repo 
 -------------------------------------------------------------------------
 #>
@@ -112,14 +98,30 @@ IF(!(Test-Path "C:\backups")) { New-Item -ItemType Directory -Path "c:\backups" 
 
 <#
 -------------------------------------------------------------------------
+                               Install Steam
+-------------------------------------------------------------------------
+#>
+
+IF(!(Test-Path "C:\SteamCMD")) {
+ Write-Host "Downloading SteamCMD" -ForegroundColor Yellow -BackgroundColor red
+ #run installer in new window
+ #Start-Process -Wait "Steam Installer" /D "C:\" cmd.exe /K C:\rust-oxide-umod\powershell\install-steamcmd.bat
+ & C:\rust-oxide-umod\powershell\install-steamcmd.bat
+}
+Write-Host "Steam Installed"
+
+<#
+-------------------------------------------------------------------------
                               Install Umod
 -------------------------------------------------------------------------
 #>
 
 #need a better test here
-IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-install.ps1")) {
+IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-devel.ps1")) {
  Write-Host "Downloading uMod" -ForegroundColor Yellow -BackgroundColor red
  Invoke-WebRequest -UseBasicParsing -uri "https://umod.io/umod-install.ps1" -Outfile "C:\rust-oxide-umod\powershell\umod-install.ps1"
+ #install prereq
+ dotnet add package Microsoft.PowerShell.SDK --version 7.3.2
  #run installer in new window
  # some command here
  & C:\rust-oxide-umod\powershell\umod-install.ps1
