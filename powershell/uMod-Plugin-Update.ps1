@@ -2,7 +2,7 @@
 .SYNOPSIS
     uMod plugin updater.
 .DESCRIPTION
-    Looks for updates to plugins found in /rustserver/oxide/plugins folder.
+    Looks for updates to plugins found in c:/rust-oxide-umod/oxide/plugins folder.
 .NOTES
     File Name      : uMod-Plugin-Update.ps1
     Author         : John Clark (johnrclark3@gmail.com)
