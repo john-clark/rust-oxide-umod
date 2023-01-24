@@ -18,10 +18,11 @@
 #>
 
 Set-Executionpolicy -Scope LocalMachine -ExecutionPolicy UnRestricted -Force
+setx POWERSHELL_TELEMETRY_OPTOUT 1 #fuq M$ spyware dirtbags
 
-Write-Host "------------------------------------------------"
-Write-Host " Checking Installation" -ForegroundColor Green 
-Write-Host "------------------------------------------------"
+Write-Host "------------------------------------------------" -ForegroundColor Green 
+Write-Host " Checking Installation"  -ForegroundColor Green 
+Write-Host "------------------------------------------------" -ForegroundColor Green 
 
 <#
 -------------------------------------------------------------------------
@@ -127,17 +128,18 @@ Write-Host "Rust Installed"
 #>
 
 #need a better test here
-IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-devel.ps1")) {
+IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-install.ps1")) {
  Write-Host "Downloading uMod" -ForegroundColor Yellow -BackgroundColor red
  Invoke-WebRequest -UseBasicParsing -uri "https://umod.io/umod-install.ps1" -Outfile "C:\rust-oxide-umod\powershell\umod-install.ps1"
  #install prereq
  IF(!(Test-Path "dotnet-install.ps1")) {
   Write-Host "Downloading Dotnet 6" -ForegroundColor Yellow -BackgroundColor red
+  setx DOTNET_CLI_TELEMETRY_OPTOUT 1 #fuq m$ spyware dirtbags
+  dotnet dev-certs https --trust
   Invoke-WebRequest 'https://dot.net/v1/dotnet-install.ps1' -OutFile 'dotnet-install.ps1'
   ./dotnet-install.ps1 -InstallDir '~/.dotnet' -Version '6.0.2' -Runtime 'dotnet'
  }
  Write-Host "Dotnet 6 Installed"
-
  # Run a separate PowerShell process because the script calls exit, so it will end the current PowerShell session.
  & C:\rust-oxide-umod\powershell\umod-install.ps1
  #Remove-Item C:\rust-oxide-umod\powershell\umod-install.ps1
