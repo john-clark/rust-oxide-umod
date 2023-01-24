@@ -19,7 +19,8 @@
 
 Set-Executionpolicy -Scope LocalMachine -ExecutionPolicy UnRestricted -Force
 
-Write-Host "Checking Installation"
+Write-Host "------------------------------------------------"
+Write-Host " Checking Installation" -ForegroundColor Green 
 Write-Host "------------------------------------------------"
 
 <#
@@ -111,6 +112,16 @@ Write-Host "Steam Installed"
 
 <#
 -------------------------------------------------------------------------
+                               Install Rust
+-------------------------------------------------------------------------
+#>
+IF(!(Test-Path "C:\rust-oxide-umod\RustDedicated.exe")) {
+ Write-Host "Downloading Rust" -ForegroundColor Yellow -BackgroundColor red
+ & C:\rust-oxide-umod\powershell\uMod-RustServer-Update.ps1
+}
+Write-Host "Rust Installed"
+<#
+-------------------------------------------------------------------------
                               Install Umod
 -------------------------------------------------------------------------
 #>
@@ -120,9 +131,14 @@ IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-devel.ps1")) {
  Write-Host "Downloading uMod" -ForegroundColor Yellow -BackgroundColor red
  Invoke-WebRequest -UseBasicParsing -uri "https://umod.io/umod-install.ps1" -Outfile "C:\rust-oxide-umod\powershell\umod-install.ps1"
  #install prereq
- Install-Package Microsoft.PowerShell.Native -Version 7.3.2
- #run installer in new window
- # some command here
+ IF(!(Test-Path "dotnet-install.ps1")) {
+  Write-Host "Downloading Dotnet 6" -ForegroundColor Yellow -BackgroundColor red
+  Invoke-WebRequest 'https://dot.net/v1/dotnet-install.ps1' -OutFile 'dotnet-install.ps1'
+  ./dotnet-install.ps1 -InstallDir '~/.dotnet' -Version '6.0.2' -Runtime 'dotnet'
+ }
+ Write-Host "Dotnet 6 Installed"
+
+ # Run a separate PowerShell process because the script calls exit, so it will end the current PowerShell session.
  & C:\rust-oxide-umod\powershell\umod-install.ps1
  #Remove-Item C:\rust-oxide-umod\powershell\umod-install.ps1
 }
