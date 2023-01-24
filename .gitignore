@@ -1,10 +1,14 @@
-mesa.7z
-umod-server-vars.cfg
+config/
+logs/
+server/
+userdata/
 oxide/
 Bundles/
 MonoBleedingEdge/
 RustDedicated_Data/
 cfg/
 steamapps/
+mesa.7z
+umod-server-vars.cfg
 *.dll
 *.exe

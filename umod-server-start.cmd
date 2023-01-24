@@ -10,23 +10,33 @@ powershell -ExecutionPolicy Bypass -File "c:\rust-oxide-umod\powershell\umod-rus
 ECHO Updating uMod Plugins...
 powershell -ExecutionPolicy Bypass -File "c:\rust-oxide-umod\powershell\umod-plugin-update.ps1"
 
-set OPTS=-batchmode -nographics -LogFile "c:\backups\serverlog-%_date%.log" ^
-+server.official %official% ^
-+server.hostname %host% ^
-+server.description %descr% +server.headerimage %image% +server.url %url% ^
-+server.port %sport% ^
-+rcon.port %rport% +rcon.web %rweb% +rcon.password %rpass% ^
-+server.identity "Procedural_Map-seed1-size4000" ^
-+server.level %level% +server.seed %seed% +server.worldsize %size% ^
-+server.maxplayers %maxplayers% ^
-+server.radiation %radiation% +server.stability %stability% +decay.upkeep %upkeep%
+set OPTS=-batchmode -nographics ^
+-LogFile c:\backups\serverlog-%_date%.log ^
+-server.official %official% ^
+-server.hostname %host% ^
+-server.description %descr% ^
+-server.headerimage %image% ^
+-server.logoimage %logo% ^
+-server.url %url% ^
+-server.port %sport% ^
+-rcon.port %rport% ^
+-rcon.web %rweb% ^
+-rcon.password %rpass% ^
+-server.identity  %identity% ^
+-server.level %level% ^
+-server.seed %seed% ^
+-server.worldsize %size% ^
+-server.maxplayers %maxplayers% ^
+-server.radiation %radiation% ^
+-server.stability %stability% ^
+-decay.upkeep %upkeep%
 
-set CMDLINE=START "" /HIGH /WAIT "RustDedicated.exe" %OPTS%
+set CMDLINE=RustDedicated.exe %OPTS%
 ECHO %CMDLINE%
 
 ECHO Starting Server...
 ECHO This may take a while...
-%CMDLINE%
+START /HIGH /WAIT "Rust Dedicated Server" /D "C:\rust-oxide-umod" cmd.exe /K %CMDLINE%
 
 ECHO Restarting Server... (Press CTRL+C to cancel)
 timeout /t 10
