@@ -10,5 +10,6 @@ cfg/
 steamapps/
 mesa.7z
 umod-server-vars.cfg
+README.txt
 *.dll
 *.exe
