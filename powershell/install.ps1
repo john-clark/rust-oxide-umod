@@ -33,7 +33,6 @@ IF(!(Test-Path "C:\Program Files\Git")) {
  Install-PackageProvider -Name NuGet -Force
  Install-Script install-git -Force
  install-git.ps1
- Remove-Item install-git.ps1
 } 
 Write-Host "Git Installed"
 
@@ -121,7 +120,7 @@ IF(!(Test-Path "C:\rust-oxide-umod\powershell\umod-devel.ps1")) {
  Write-Host "Downloading uMod" -ForegroundColor Yellow -BackgroundColor red
  Invoke-WebRequest -UseBasicParsing -uri "https://umod.io/umod-install.ps1" -Outfile "C:\rust-oxide-umod\powershell\umod-install.ps1"
  #install prereq
- dotnet add package Microsoft.PowerShell.SDK --version 7.3.2
+ Install-Package Microsoft.PowerShell.Native -Version 7.3.2
  #run installer in new window
  # some command here
  & C:\rust-oxide-umod\powershell\umod-install.ps1
