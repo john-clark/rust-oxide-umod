@@ -1,16 +1,25 @@
 
 # rust-oxide-umod
 
-*Because their site has flood protection and they need a plugin repo on github for speed*
+## Purpose
 
-## notes
+* Simplify the install and backup of a [Steam](https://store.steampowered.com/) [Rust](https://rust.facepunch.com/) [dedicated gaming server](https://developer.valvesoftware.com/wiki/Rust_Dedicated_Server) that hosts plugins
+* Speed up the [uMod](https://umod.org/) site flood protection with a local [plugin](https://umod.org/plugins?categories=rust) mirror
 
+## State
+
+* Current [install](#install) seems to be working, but uMod is an issue...like always.
 * This is an attempt at randomly pressing keys and trying to get something to work
-* None of these files are finished or properly working so don't expect anything here to function
-* This is here only so I can work on multiple machines without copying files back and forth
-* I noticed that some authors modify plugins without updating version info :(
+> **Warning** None of these files are finished or properly working so don't expect anything to work at all
 
-## install
+## Notes
+
+* This is here only so I can work on multiple machines without copying files back and forth
+* This if for Windows Powershell/Command line. 
+* Some authors modify plugins without updating version, so I mirror plugins are in this repo
+* umod has changed quite a bit since I first wrote this, and not for the better
+
+## Install
 
 **Tested environment**
 
@@ -19,9 +28,10 @@
 
 ```powershell
 $source = "https://tinyurl.com/rustoxumod"
-# Real link is here if tinyul stops working
-# https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/install.ps1
+# Real link: https://raw.githubusercontent.com/john-clark/rust-oxide-umod/master/install.ps1
 Invoke-WebRequest -UseBasicParsing -Uri $source -OutFile "install.ps1"
 # Run the installer
 .\install.ps1
 ```
+
+> **Warning** THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
