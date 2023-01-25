@@ -14,10 +14,12 @@
 
 ## Notes
 
-* This is here only so I can work on multiple machines without copying files back and forth
 * This if for Windows Powershell/Command line. 
-* Some authors modify plugins without updating version, so I mirror plugins are in this repo
-* umod has changed quite a bit since I first wrote this, and not for the better
+* This repo is so I can work on multiple machines without copying files back and forth.
+* Some plugins authors modify and release code without updating versioning so that is why I originally started to mirror plugins.
+* uMod has changed quite a bit since I first wrote this, and not for the better.
+* I don't play that much, not sure if I will keep going with this because it is such a PITA.
+* This may sit for years without updates and only be updated when I want to look at new game updates.
 
 ## Install
 
