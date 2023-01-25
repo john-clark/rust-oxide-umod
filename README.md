@@ -3,8 +3,8 @@
 
 ## Purpose
 
-* Simplify the install and backup of a [Steam](https://store.steampowered.com/) [Rust](https://rust.facepunch.com/) [dedicated gaming server](https://developer.valvesoftware.com/wiki/Rust_Dedicated_Server) that hosts plugins
-* Speed up the [uMod](https://umod.org/) site flood protection with a local [plugin](https://umod.org/plugins?categories=rust) mirror
+* Simplify the install and backup of a [Steam](https://store.steampowered.com/) [Rust](https://rust.facepunch.com/) [dedicated gaming server](https://developer.valvesoftware.com/wiki/Rust_Dedicated_Server) that hosts [plugins](https://umod.org/plugins?categories=rust).
+* Speed up/bypass the [uMod](https://umod.org/) site flood protection and add 3rd party/local plugin mirror.
 
 ## State
 
